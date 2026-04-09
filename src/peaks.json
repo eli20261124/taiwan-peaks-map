@@ -1,0 +1,219 @@
+{
+  "peaks": [
+    {
+      "id": 1,
+      "name": "玉山",
+      "englishName": "Yu Shan (Main Peak)",
+      "elevation": 3952,
+      "coordinates": {
+        "latitude": 23.4726,
+        "longitude": 120.9577
+      },
+      "climate": {
+        "recommendedMonths": ["10月", "11月", "12月", "3月", "4月", "5月"],
+        "averageHumidity": "65-75%",
+        "temperatureRange": "-10°C至0°C（山頂冬季）"
+      },
+      "ecology": {
+        "endemicPlants": [
+          {
+            "name": "玉山圓柏",
+            "scientificName": "Chamaecyparis obtusa subsp. formosana",
+            "description": "台灣特有的檜木，分布在海拔2000-3400公尺"
+          },
+          {
+            "name": "玉山薊",
+            "scientificName": "Cirsium kawakamii",
+            "description": "台灣高山特有種，紫紅色花朵"
+          }
+        ],
+        "endemicAnimals": [
+          {
+            "name": "雪山草蜥",
+            "scientificName": "Phrynocephalus theobaldi",
+            "description": "台灣高山特有蜥蜴，分布在海拔3000公尺以上"
+          },
+          {
+            "name": "台灣山羌",
+            "scientificName": "Muntiacus reevesi micrurus",
+            "description": "台灣特有鹿科動物，常見於中高海拔地區"
+          }
+        ]
+      },
+      "difficulty": "困難",
+      "estimatedDays": 2
+    },
+    {
+      "id": 2,
+      "name": "雪山",
+      "englishName": "Snow Mountain (Xueshan)",
+      "elevation": 3886,
+      "coordinates": {
+        "latitude": 24.3681,
+        "longitude": 121.2437
+      },
+      "climate": {
+        "recommendedMonths": ["9月", "10月", "11月", "3月", "4月", "5月"],
+        "averageHumidity": "60-70%",
+        "temperatureRange": "-5°C至5°C（山頂冬季）"
+      },
+      "ecology": {
+        "endemicPlants": [
+          {
+            "name": "台灣扁柏",
+            "scientificName": "Chamaecyparis taiwanensis",
+            "description": "分布於海拔1800-2500公尺的檜木林帶"
+          },
+          {
+            "name": "雪山翠楠",
+            "scientificName": "Xanthanthyllum humile",
+            "description": "台灣高山特有灌木"
+          }
+        ],
+        "endemicAnimals": [
+          {
+            "name": "台灣長鬃山羊",
+            "scientificName": "Naemorhedus swinhoei",
+            "description": "台灣特有且瀕危的山羊科動物"
+          },
+          {
+            "name": "金翅雀",
+            "scientificName": "Carduelis carduelis",
+            "description": "高山地區常見高峰訪客"
+          }
+        ]
+      },
+      "difficulty": "困難",
+      "estimatedDays": 2
+    },
+    {
+      "id": 3,
+      "name": "南湖大山",
+      "englishName": "Nanhu Da Shan",
+      "elevation": 3742,
+      "coordinates": {
+        "latitude": 24.6447,
+        "longitude": 121.1839
+      },
+      "climate": {
+        "recommendedMonths": ["7月", "8月", "9月", "10月"],
+        "averageHumidity": "55-65%",
+        "temperatureRange": "0°C至10°C（山頂夏季）"
+      },
+      "ecology": {
+        "endemicPlants": [
+          {
+            "name": "玉山薔薇",
+            "scientificName": "Rosa sambucina subsp. hayatae",
+            "description": "台灣特有薔薇，具美麗粉紅色花朵"
+          },
+          {
+            "name": "南湖柳葉菜",
+            "scientificName": "Epilobium nanhualicum",
+            "description": "台灣中高海拔特有種"
+          }
+        ],
+        "endemicAnimals": [
+          {
+            "name": "台灣黑熊",
+            "scientificName": "Ursus ussuricus ussuricus formosanus",
+            "description": "台灣特有亞種，在高海拔林區活動"
+          },
+          {
+            "name": "台灣野山羊",
+            "scientificName": "Capricornis crispus swinhoei",
+            "description": "分布在中央山脈的懸崖峭壁"
+          }
+        ]
+      },
+      "difficulty": "困難",
+      "estimatedDays": 3
+    },
+    {
+      "id": 4,
+      "name": "大霸尖山",
+      "englishName": "Dabajian Mountain",
+      "elevation": 3492,
+      "coordinates": {
+        "latitude": 24.4742,
+        "longitude": 120.8533
+      },
+      "climate": {
+        "recommendedMonths": ["4月", "5月", "10月", "11月"],
+        "averageHumidity": "70-80%",
+        "temperatureRange": "5°C至15°C"
+      },
+      "ecology": {
+        "endemicPlants": [
+          {
+            "name": "台灣杜鵑",
+            "scientificName": "Rhododendron pseudochrysanthum",
+            "description": "台灣山區常見特有杜鵑，5月開花"
+          },
+          {
+            "name": "玉山刺通草",
+            "scientificName": "Homalomena philippinensis var. taiwaniana",
+            "description": "高山陰濕地常見植物"
+          }
+        ],
+        "endemicAnimals": [
+          {
+            "name": "帝雉",
+            "scientificName": "Lophura swinhoii",
+            "description": "台灣特有珍稀高山雉科鳥類，分布在海拔2000-3500公尺"
+          },
+          {
+            "name": "松鼠",
+            "scientificName": "Sciurus lis",
+            "description": "台灣特有松鼠，在林間活動"
+          }
+        ]
+      },
+      "difficulty": "困難",
+      "estimatedDays": 2
+    },
+    {
+      "id": 5,
+      "name": "奇萊北峰",
+      "englishName": "Qilai North Peak",
+      "elevation": 3607,
+      "coordinates": {
+        "latitude": 24.1611,
+        "longitude": 121.0306
+      },
+      "climate": {
+        "recommendedMonths": ["9月", "10月", "11月"],
+        "averageHumidity": "65-75%",
+        "temperatureRange": "-5°C至5°C（山頂冬季）"
+      },
+      "ecology": {
+        "endemicPlants": [
+          {
+            "name": "玉山箭竹",
+            "scientificName": "Yushania niitakayamensis",
+            "description": "台灣特有的高山竹類，形成竹海風景"
+          },
+          {
+            "name": "筆筒樹",
+            "scientificName": "Cyathea spinulosa",
+            "description": "古老蕨類植物，在山區可見"
+          }
+        ],
+        "endemicAnimals": [
+          {
+            "name": "水鹿",
+            "scientificName": "Cervus nippon rubripes",
+            "description": "台灣特有鹿科動物，常在清晨活動"
+          },
+          {
+            "name": "台灣獼猴",
+            "scientificName": "Macaca cyclopis",
+            "description": "台灣特有猴類，分布在中低海拔林區"
+          }
+        ]
+      },
+      "difficulty": "困難",
+      "estimatedDays": 2
+    }
+  ]
+}
