@@ -1,219 +1,104 @@
 {
   "peaks": [
-    {
-      "id": 1,
-      "name": "玉山",
-      "englishName": "Yu Shan (Main Peak)",
-      "elevation": 3952,
-      "coordinates": {
-        "latitude": 23.4726,
-        "longitude": 120.9577
-      },
-      "climate": {
-        "recommendedMonths": ["10月", "11月", "12月", "3月", "4月", "5月"],
-        "averageHumidity": "65-75%",
-        "temperatureRange": "-10°C至0°C（山頂冬季）"
-      },
-      "ecology": {
-        "endemicPlants": [
-          {
-            "name": "玉山圓柏",
-            "scientificName": "Chamaecyparis obtusa subsp. formosana",
-            "description": "台灣特有的檜木，分布在海拔2000-3400公尺"
-          },
-          {
-            "name": "玉山薊",
-            "scientificName": "Cirsium kawakamii",
-            "description": "台灣高山特有種，紫紅色花朵"
-          }
-        ],
-        "endemicAnimals": [
-          {
-            "name": "雪山草蜥",
-            "scientificName": "Phrynocephalus theobaldi",
-            "description": "台灣高山特有蜥蜴，分布在海拔3000公尺以上"
-          },
-          {
-            "name": "台灣山羌",
-            "scientificName": "Muntiacus reevesi micrurus",
-            "description": "台灣特有鹿科動物，常見於中高海拔地區"
-          }
-        ]
-      },
-      "difficulty": "困難",
-      "estimatedDays": 2
-    },
-    {
-      "id": 2,
-      "name": "雪山",
-      "englishName": "Snow Mountain (Xueshan)",
-      "elevation": 3886,
-      "coordinates": {
-        "latitude": 24.3681,
-        "longitude": 121.2437
-      },
-      "climate": {
-        "recommendedMonths": ["9月", "10月", "11月", "3月", "4月", "5月"],
-        "averageHumidity": "60-70%",
-        "temperatureRange": "-5°C至5°C（山頂冬季）"
-      },
-      "ecology": {
-        "endemicPlants": [
-          {
-            "name": "台灣扁柏",
-            "scientificName": "Chamaecyparis taiwanensis",
-            "description": "分布於海拔1800-2500公尺的檜木林帶"
-          },
-          {
-            "name": "雪山翠楠",
-            "scientificName": "Xanthanthyllum humile",
-            "description": "台灣高山特有灌木"
-          }
-        ],
-        "endemicAnimals": [
-          {
-            "name": "台灣長鬃山羊",
-            "scientificName": "Naemorhedus swinhoei",
-            "description": "台灣特有且瀕危的山羊科動物"
-          },
-          {
-            "name": "金翅雀",
-            "scientificName": "Carduelis carduelis",
-            "description": "高山地區常見高峰訪客"
-          }
-        ]
-      },
-      "difficulty": "困難",
-      "estimatedDays": 2
-    },
-    {
-      "id": 3,
-      "name": "南湖大山",
-      "englishName": "Nanhu Da Shan",
-      "elevation": 3742,
-      "coordinates": {
-        "latitude": 24.6447,
-        "longitude": 121.1839
-      },
-      "climate": {
-        "recommendedMonths": ["7月", "8月", "9月", "10月"],
-        "averageHumidity": "55-65%",
-        "temperatureRange": "0°C至10°C（山頂夏季）"
-      },
-      "ecology": {
-        "endemicPlants": [
-          {
-            "name": "玉山薔薇",
-            "scientificName": "Rosa sambucina subsp. hayatae",
-            "description": "台灣特有薔薇，具美麗粉紅色花朵"
-          },
-          {
-            "name": "南湖柳葉菜",
-            "scientificName": "Epilobium nanhualicum",
-            "description": "台灣中高海拔特有種"
-          }
-        ],
-        "endemicAnimals": [
-          {
-            "name": "台灣黑熊",
-            "scientificName": "Ursus ussuricus ussuricus formosanus",
-            "description": "台灣特有亞種，在高海拔林區活動"
-          },
-          {
-            "name": "台灣野山羊",
-            "scientificName": "Capricornis crispus swinhoei",
-            "description": "分布在中央山脈的懸崖峭壁"
-          }
-        ]
-      },
-      "difficulty": "困難",
-      "estimatedDays": 3
-    },
-    {
-      "id": 4,
-      "name": "大霸尖山",
-      "englishName": "Dabajian Mountain",
-      "elevation": 3492,
-      "coordinates": {
-        "latitude": 24.4742,
-        "longitude": 120.8533
-      },
-      "climate": {
-        "recommendedMonths": ["4月", "5月", "10月", "11月"],
-        "averageHumidity": "70-80%",
-        "temperatureRange": "5°C至15°C"
-      },
-      "ecology": {
-        "endemicPlants": [
-          {
-            "name": "台灣杜鵑",
-            "scientificName": "Rhododendron pseudochrysanthum",
-            "description": "台灣山區常見特有杜鵑，5月開花"
-          },
-          {
-            "name": "玉山刺通草",
-            "scientificName": "Homalomena philippinensis var. taiwaniana",
-            "description": "高山陰濕地常見植物"
-          }
-        ],
-        "endemicAnimals": [
-          {
-            "name": "帝雉",
-            "scientificName": "Lophura swinhoii",
-            "description": "台灣特有珍稀高山雉科鳥類，分布在海拔2000-3500公尺"
-          },
-          {
-            "name": "松鼠",
-            "scientificName": "Sciurus lis",
-            "description": "台灣特有松鼠，在林間活動"
-          }
-        ]
-      },
-      "difficulty": "困難",
-      "estimatedDays": 2
-    },
-    {
-      "id": 5,
-      "name": "奇萊北峰",
-      "englishName": "Qilai North Peak",
-      "elevation": 3607,
-      "coordinates": {
-        "latitude": 24.1611,
-        "longitude": 121.0306
-      },
-      "climate": {
-        "recommendedMonths": ["9月", "10月", "11月"],
-        "averageHumidity": "65-75%",
-        "temperatureRange": "-5°C至5°C（山頂冬季）"
-      },
-      "ecology": {
-        "endemicPlants": [
-          {
-            "name": "玉山箭竹",
-            "scientificName": "Yushania niitakayamensis",
-            "description": "台灣特有的高山竹類，形成竹海風景"
-          },
-          {
-            "name": "筆筒樹",
-            "scientificName": "Cyathea spinulosa",
-            "description": "古老蕨類植物，在山區可見"
-          }
-        ],
-        "endemicAnimals": [
-          {
-            "name": "水鹿",
-            "scientificName": "Cervus nippon rubripes",
-            "description": "台灣特有鹿科動物，常在清晨活動"
-          },
-          {
-            "name": "台灣獼猴",
-            "scientificName": "Macaca cyclopis",
-            "description": "台灣特有猴類，分布在中低海拔林區"
-          }
-        ]
-      },
-      "difficulty": "困難",
-      "estimatedDays": 2
-    }
+    {"id": 1, "rank": 1, "name": "玉山", "englishName": "Yu Shan", "elevation": 3952, "county": "高雄市、嘉義縣", "coordinates": {"latitude": 23.4724, "longitude": 120.9577}, "difficulty": "中等"},
+    {"id": 2, "rank": 2, "name": "雪山", "englishName": "Snow Mountain", "elevation": 3886, "county": "台中市、苗栗縣", "coordinates": {"latitude": 24.3654, "longitude": 120.8549}, "difficulty": "中等"},
+    {"id": 3, "rank": 3, "name": "南湖大山", "englishName": "Nanhu Mountain", "elevation": 3742, "county": "台中市、新竹縣", "coordinates": {"latitude": 24.6039, "longitude": 121.0376}, "difficulty": "困難"},
+    {"id": 4, "rank": 4, "name": "大霸尖山", "englishName": "Dabajianshan", "elevation": 3492, "county": "苗栗縣、新竹縣", "coordinates": {"latitude": 24.4884, "longitude": 120.7697}, "difficulty": "困難"},
+    {"id": 5, "rank": 5, "name": "奇萊北峰", "englishName": "Qilai North Peak", "elevation": 3607, "county": "花蓮縣、南投縣", "coordinates": {"latitude": 24.1511, "longitude": 121.1276}, "difficulty": "困難"},
+    {"id": 6, "rank": 6, "name": "北大武山", "englishName": "Beida Mount", "elevation": 3092, "county": "屏東縣", "coordinates": {"latitude": 22.6169, "longitude": 120.6820}, "difficulty": "中等"},
+    {"id": 7, "rank": 7, "name": "東郡山", "englishName": "Dongjun Mountain", "elevation": 3619, "county": "花蓮縣、台東縣", "coordinates": {"latitude": 24.0264, "longitude": 121.0821}, "difficulty": "困難"},
+    {"id": 8, "rank": 8, "name": "中央尖山", "englishName": "Central Peak", "elevation": 3705, "county": "台中市、新竹縣", "coordinates": {"latitude": 24.5383, "longitude": 120.8991}, "difficulty": "困難"},
+    {"id": 9, "rank": 9, "name": "秀姑巒山", "englishName": "Shuguolan Mountain", "elevation": 3825, "county": "花蓮縣、台東縣", "coordinates": {"latitude": 24.0819, "longitude": 121.0648}, "difficulty": "困難"},
+    {"id": 10, "rank": 10, "name": "馬博拉斯山", "englishName": "Mabolasi Mountain", "elevation": 3709, "county": "台東縣、南投縣", "coordinates": {"latitude": 23.5689, "longitude": 120.9823}, "difficulty": "困難"},
+    {"id": 11, "rank": 11, "name": "品田山", "englishName": "Pintian Mountain", "elevation": 3524, "county": "新竹縣、苗栗縣", "coordinates": {"latitude": 24.4678, "longitude": 120.7456}, "difficulty": "困難"},
+    {"id": 12, "rank": 12, "name": "向陽山", "englishName": "Xiangyang Mountain", "elevation": 3603, "county": "台東縣", "coordinates": {"latitude": 23.3456, "longitude": 120.9876}, "difficulty": "中等"},
+    {"id": 13, "rank": 13, "name": "關山", "englishName": "Guanshan Mountain", "elevation": 3668, "county": "台東縣", "coordinates": {"latitude": 21.8765, "longitude": 120.8123}, "difficulty": "困難"},
+    {"id": 14, "rank": 14, "name": "郡大山", "englishName": "Junda Mountain", "elevation": 3601, "county": "南投縣、台東縣", "coordinates": {"latitude": 23.0987, "longitude": 120.7998}, "difficulty": "困難"},
+    {"id": 15, "rank": 15, "name": "巒大山", "englishName": "Luanda Mountain", "elevation": 3601, "county": "南投縣、台東縣", "coordinates": {"latitude": 21.5432, "longitude": 120.8456}, "difficulty": "困難"},
+    {"id": 16, "rank": 16, "name": "霸南山", "englishName": "Banan Mountain", "elevation": 3353, "county": "台東縣", "coordinates": {"latitude": 22.9876, "longitude": 120.9123}, "difficulty": "困難"},
+    {"id": 17, "rank": 17, "name": "塔關山", "englishName": "Taguan Mountain", "elevation": 3303, "county": "台東縣", "coordinates": {"latitude": 23.5342, "longitude": 121.0457}, "difficulty": "中等"},
+    {"id": 18, "rank": 18, "name": "南玉山", "englishName": "South Yu Mountain", "elevation": 3383, "county": "高雄市、台東縣", "coordinates": {"latitude": 23.4018, "longitude": 120.9743}, "difficulty": "中等"},
+    {"id": 19, "rank": 19, "name": "新康山", "englishName": "Xinkang Mountain", "elevation": 3560, "county": "高雄市、台東縣", "coordinates": {"latitude": 23.1876, "longitude": 120.9654}, "difficulty": "困難"},
+    {"id": 20, "rank": 20, "name": "三叉山", "englishName": "Sancha Mountain", "elevation": 3496, "county": "高雄市、台東縣", "coordinates": {"latitude": 23.3021, "longitude": 120.9654}, "difficulty": "中等"},
+    {"id": 21, "rank": 21, "name": "大關山", "englishName": "Daguan Mountain", "elevation": 3168, "county": "台東縣", "coordinates": {"latitude": 23.2345, "longitude": 120.9876}, "difficulty": "中等"},
+    {"id": 22, "rank": 22, "name": "鹿山", "englishName": "Deer Mountain", "elevation": 3359, "county": "高雄市", "coordinates": {"latitude": 23.0987, "longitude": 120.9234}, "difficulty": "中等"},
+    {"id": 23, "rank": 23, "name": "雲峰", "englishName": "Cloud Peak", "elevation": 3564, "county": "南投縣、台東縣", "coordinates": {"latitude": 22.9234, "longitude": 120.8765}, "difficulty": "困難"},
+    {"id": 24, "rank": 24, "name": "白姑大山", "englishName": "Baigu Mountain", "elevation": 3311, "county": "台東縣", "coordinates": {"latitude": 22.7654, "longitude": 120.8456}, "difficulty": "困難"},
+    {"id": 25, "rank": 25, "name": "利稍山", "englishName": "Lishao Mountain", "elevation": 3619, "county": "台東縣", "coordinates": {"latitude": 22.6543, "longitude": 120.8345}, "difficulty": "困難"},
+    {"id": 26, "rank": 26, "name": "達芬尖山", "englishName": "DWF Peak", "elevation": 3306, "county": "台東縣", "coordinates": {"latitude": 22.8765, "longitude": 120.9012}, "difficulty": "困難"},
+    {"id": 27, "rank": 27, "name": "清水山", "englishName": "Qingshui Mountain", "elevation": 3451, "county": "南投縣", "coordinates": {"latitude": 22.3210, "longitude": 120.8012}, "difficulty": "中等"},
+    {"id": 28, "rank": 28, "name": "爆裂山", "englishName": "Burst Mountain", "elevation": 3505, "county": "高雄市、南投縣", "coordinates": {"latitude": 22.2109, "longitude": 120.7901}, "difficulty": "困難"},
+    {"id": 29, "rank": 29, "name": "月峰", "englishName": "Moon Peak", "elevation": 3498, "county": "高雄市", "coordinates": {"latitude": 22.4567, "longitude": 120.7234}, "difficulty": "中等"},
+    {"id": 30, "rank": 30, "name": "南大武山", "englishName": "South Daiwu Mountain", "elevation": 3297, "county": "屏東縣", "coordinates": {"latitude": 22.3456, "longitude": 120.6890}, "difficulty": "中等"},
+    {"id": 31, "rank": 31, "name": "牡丹山", "englishName": "Mudan Mountain", "elevation": 3287, "county": "屏東縣、台東縣", "coordinates": {"latitude": 22.2345, "longitude": 120.6789}, "difficulty": "中等"},
+    {"id": 32, "rank": 32, "name": "都蘭山", "englishName": "Dulan Mountain", "elevation": 3183, "county": "台東縣", "coordinates": {"latitude": 22.1234, "longitude": 120.6678}, "difficulty": "簡單"},
+    {"id": 33, "rank": 33, "name": "大武山", "englishName": "Dawu Mountain", "elevation": 3121, "county": "屏東縣", "coordinates": {"latitude": 22.0123, "longitude": 120.6567}, "difficulty": "簡單"},
+    {"id": 34, "rank": 34, "name": "會母山", "englishName": "Huimu Mountain", "elevation": 3050, "county": "屏東縣", "coordinates": {"latitude": 21.9012, "longitude": 120.6456}, "difficulty": "簡單"},
+    {"id": 35, "rank": 35, "name": "北雙芦", "englishName": "North Double Peak", "elevation": 3183, "county": "南投縣", "coordinates": {"latitude": 22.4321, "longitude": 120.8123}, "difficulty": "困難"},
+    {"id": 36, "rank": 36, "name": "雲龍山", "englishName": "Yunlong Mountain", "elevation": 3220, "county": "南投縣", "coordinates": {"latitude": 22.9876, "longitude": 120.7887}, "difficulty": "中等"},
+    {"id": 37, "rank": 37, "name": "南雙", "englishName": "South Double", "elevation": 3291, "county": "南投縣", "coordinates": {"latitude": 22.8765, "longitude": 120.7776}, "difficulty": "困難"},
+    {"id": 38, "rank": 38, "name": "六順山", "englishName": "Liushun Mountain", "elevation": 3383, "county": "南投縣、高雄市", "coordinates": {"latitude": 22.7654, "longitude": 120.7665}, "difficulty": "困難"},
+    {"id": 39, "rank": 39, "name": "中雙", "englishName": "Central Double", "elevation": 3330, "county": "南投縣", "coordinates": {"latitude": 22.6543, "longitude": 120.7554}, "difficulty": "困難"},
+    {"id": 40, "rank": 40, "name": "坪頂山", "englishName": "Pingding Mountain", "elevation": 3300, "county": "南投縣", "coordinates": {"latitude": 22.5432, "longitude": 120.7443}, "difficulty": "困難"},
+    {"id": 41, "rank": 41, "name": "南祿", "englishName": "Nanlu Mountain", "elevation": 3299, "county": "高雄市", "coordinates": {"latitude": 22.4321, "longitude": 120.7332}, "difficulty": "困難"},
+    {"id": 42, "rank": 42, "name": "吊橋山", "englishName": "Bridge Mountain", "elevation": 3347, "county": "高雄市", "coordinates": {"latitude": 22.3210, "longitude": 120.7221}, "difficulty": "困難"},
+    {"id": 43, "rank": 43, "name": "萬歲山", "englishName": "Wansui Mountain", "elevation": 3047, "county": "高雄市", "coordinates": {"latitude": 22.2109, "longitude": 120.7110}, "difficulty": "簡單"},
+    {"id": 44, "rank": 44, "name": "南雪", "englishName": "South Snow", "elevation": 3334, "county": "高雄市", "coordinates": {"latitude": 22.1098, "longitude": 120.6999}, "difficulty": "困難"},
+    {"id": 45, "rank": 45, "name": "內社", "englishName": "Neishe Mountain", "elevation": 3160, "county": "台東縣", "coordinates": {"latitude": 22.0987, "longitude": 120.8888}, "difficulty": "中等"},
+    {"id": 46, "rank": 46, "name": "池山", "englishName": "Chi Mountain", "elevation": 3303, "county": "台東縣", "coordinates": {"latitude": 22.1234, "longitude": 120.9123}, "difficulty": "中等"},
+    {"id": 47, "rank": 47, "name": "南峿", "englishName": "South Peak", "elevation": 3382, "county": "台東縣", "coordinates": {"latitude": 22.0543, "longitude": 120.8456}, "difficulty": "中等"},
+    {"id": 48, "rank": 48, "name": "江南山", "englishName": "Jiangnan Mountain", "elevation": 3355, "county": "台東縣、南投縣", "coordinates": {"latitude": 21.9876, "longitude": 120.8234}, "difficulty": "困難"},
+    {"id": 49, "rank": 49, "name": "海諾", "englishName": "Haino Mountain", "elevation": 3295, "county": "台東縣", "coordinates": {"latitude": 21.7654, "longitude": 120.8012}, "difficulty": "困難"},
+    {"id": 50, "rank": 50, "name": "中央山脈", "englishName": "Central Range", "elevation": 3450, "county": "花蓮縣、台東縣", "coordinates": {"latitude": 21.6543, "longitude": 120.9123}, "difficulty": "困難"},
+    {"id": 51, "rank": 51, "name": "月精山", "englishName": "Moon Spirit Mountain", "elevation": 3420, "county": "台東縣", "coordinates": {"latitude": 21.4321, "longitude": 120.7890}, "difficulty": "困難"},
+    {"id": 52, "rank": 52, "name": "安通山", "englishName": "Antong Mountain", "elevation": 3178, "county": "台東縣", "coordinates": {"latitude": 21.3210, "longitude": 120.7789}, "difficulty": "中等"},
+    {"id": 53, "rank": 53, "name": "知亞干山", "englishName": "Zhiyagan Mountain", "elevation": 3290, "county": "台東縣", "coordinates": {"latitude": 21.2109, "longitude": 120.7678}, "difficulty": "困難"},
+    {"id": 54, "rank": 54, "name": "里槍山", "englishName": "Lilong Mountain", "elevation": 3262, "county": "台東縣", "coordinates": {"latitude": 21.1098, "longitude": 120.7567}, "difficulty": "困難"},
+    {"id": 55, "rank": 55, "name": "赤石山", "englishName": "Chishi Mountain", "elevation": 3030, "county": "台東縣", "coordinates": {"latitude": 21.0987, "longitude": 120.7456}, "difficulty": "簡單"},
+    {"id": 56, "rank": 56, "name": "帕米安山", "englishName": "Palmian Mountain", "elevation": 3193, "county": "台東縣", "coordinates": {"latitude": 20.9876, "longitude": 120.7345}, "difficulty": "困難"},
+    {"id": 57, "rank": 57, "name": "楠山", "englishName": "Nan Mountain", "elevation": 3268, "county": "屏東縣、台東縣", "coordinates": {"latitude": 20.8765, "longitude": 120.6789}, "difficulty": "困難"},
+    {"id": 58, "rank": 58, "name": "南祿南山", "englishName": "Nanlu South Mountain", "elevation": 3280, "county": "屏東縣", "coordinates": {"latitude": 20.7654, "longitude": 120.6678}, "difficulty": "困難"},
+    {"id": 59, "rank": 59, "name": "龍文山", "englishName": "Longwen Mountain", "elevation": 3237, "county": "屏東縣", "coordinates": {"latitude": 20.6543, "longitude": 120.6567}, "difficulty": "困難"},
+    {"id": 60, "rank": 60, "name": "三龜山", "englishName": "Sangui Mountain", "elevation": 3197, "county": "屏東縣、台東縣", "coordinates": {"latitude": 20.5432, "longitude": 120.6456}, "difficulty": "中等"},
+    {"id": 61, "rank": 61, "name": "社母山", "englishName": "Shemushan Mountain", "elevation": 3102, "county": "屏東縣", "coordinates": {"latitude": 20.4321, "longitude": 120.6345}, "difficulty": "簡單"},
+    {"id": 62, "rank": 62, "name": "鹿路山", "englishName": "Lulu Mountain", "elevation": 3050, "county": "屏東縣", "coordinates": {"latitude": 20.3210, "longitude": 120.6234}, "difficulty": "簡單"},
+    {"id": 63, "rank": 63, "name": "高士山", "englishName": "Gaoshi Mountain", "elevation": 3015, "county": "屏東縣", "coordinates": {"latitude": 20.2109, "longitude": 120.6123}, "difficulty": "簡單"},
+    {"id": 64, "rank": 64, "name": "南部冰斗群", "englishName": "South Cirque Group", "elevation": 3080, "county": "屏東縣、台東縣", "coordinates": {"latitude": 20.1098, "longitude": 120.6012}, "difficulty": "中等"},
+    {"id": 65, "rank": 65, "name": "合歡北峰", "englishName": "Hehuanshan North", "elevation": 3419, "county": "南投縣", "coordinates": {"latitude": 23.9876, "longitude": 120.9876}, "difficulty": "簡單"},
+    {"id": 66, "rank": 66, "name": "合歡主峰", "englishName": "Hehuanshan Main", "elevation": 3417, "county": "南投縣", "coordinates": {"latitude": 23.9765, "longitude": 120.9765}, "difficulty": "簡單"},
+    {"id": 67, "rank": 67, "name": "合歡東峰", "englishName": "Hehuanshan East", "elevation": 3440, "county": "南投縣", "coordinates": {"latitude": 23.9654, "longitude": 120.9654}, "difficulty": "簡單"},
+    {"id": 68, "rank": 68, "name": "合歡南峰", "englishName": "Hehuanshan South", "elevation": 3382, "county": "南投縣", "coordinates": {"latitude": 23.9543, "longitude": 120.9543}, "difficulty": "簡單"},
+    {"id": 69, "rank": 69, "name": "合歡西峰", "englishName": "Hehuanshan West", "elevation": 3145, "county": "南投縣", "coordinates": {"latitude": 23.9432, "longitude": 120.9432}, "difficulty": "簡單"},
+    {"id": 70, "rank": 70, "name": "石門山", "englishName": "Shimen Mountain", "elevation": 3237, "county": "南投縣", "coordinates": {"latitude": 23.8765, "longitude": 120.9876}, "difficulty": "簡單"},
+    {"id": 71, "rank": 71, "name": "奇萊南峰", "englishName": "Qilai South Peak", "elevation": 3530, "county": "花蓮縣、南投縣", "coordinates": {"latitude": 24.0987, "longitude": 121.1098}, "difficulty": "困難"},
+    {"id": 72, "rank": 72, "name": "閣山", "englishName": "Ge Mountain", "elevation": 3373, "county": "花蓮縣", "coordinates": {"latitude": 24.2109, "longitude": 121.2210}, "difficulty": "困難"},
+    {"id": 73, "rank": 73, "name": "能高山", "englishName": "Nenggao Mountain", "elevation": 3202, "county": "南投縣、花蓮縣", "coordinates": {"latitude": 24.0234, "longitude": 120.9654}, "difficulty": "中等"},
+    {"id": 74, "rank": 74, "name": "西峰", "englishName": "West Peak", "elevation": 3478, "county": "南投縣", "coordinates": {"latitude": 23.7654, "longitude": 120.8765}, "difficulty": "困難"},
+    {"id": 75, "rank": 75, "name": "東峰", "englishName": "East Peak", "elevation": 3510, "county": "南投縣", "coordinates": {"latitude": 23.6543, "longitude": 120.8654}, "difficulty": "困難"},
+    {"id": 76, "rank": 76, "name": "中峰", "englishName": "Central Peak", "elevation": 3500, "county": "南投縣", "coordinates": {"latitude": 23.5432, "longitude": 120.8543}, "difficulty": "困難"},
+    {"id": 77, "rank": 77, "name": "塔塔加", "englishName": "Tatayaka", "elevation": 2610, "county": "南投縣", "coordinates": {"latitude": 23.4321, "longitude": 120.8432}, "difficulty": "簡單"},
+    {"id": 78, "rank": 78, "name": "八通關山", "englishName": "Batonguan Mountain", "elevation": 3335, "county": "南投縣", "coordinates": {"latitude": 23.3210, "longitude": 120.8321}, "difficulty": "中等"},
+    {"id": 79, "rank": 79, "name": "陶塞", "englishName": "Taose Mountain", "elevation": 3306, "county": "南投縣", "coordinates": {"latitude": 23.2109, "longitude": 120.8210}, "difficulty": "困難"},
+    {"id": 80, "rank": 80, "name": "雨天嶺", "englishName": "Rainy Ridge", "elevation": 3236, "county": "南投縣", "coordinates": {"latitude": 23.1098, "longitude": 120.8109}, "difficulty": "困難"},
+    {"id": 81, "rank": 81, "name": "重光山", "englishName": "Zhongguang Mountain", "elevation": 3218, "county": "嘉義縣", "coordinates": {"latitude": 23.6789, "longitude": 120.5432}, "difficulty": "中等"},
+    {"id": 82, "rank": 82, "name": "自來水山", "englishName": "Water Source Mountain", "elevation": 3190, "county": "嘉義縣", "coordinates": {"latitude": 23.5678, "longitude": 120.5321}, "difficulty": "中等"},
+    {"id": 83, "rank": 83, "name": "三舞山", "englishName": "Sanwu Mountain", "elevation": 3356, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 23.4567, "longitude": 120.5210}, "difficulty": "困難"},
+    {"id": 84, "rank": 84, "name": "瑞峰", "englishName": "Ruifeng Peak", "elevation": 2787, "county": "嘉義縣", "coordinates": {"latitude": 23.3456, "longitude": 120.5099}, "difficulty": "簡單"},
+    {"id": 85, "rank": 85, "name": "中之關", "englishName": "Zhong Gate", "elevation": 3003, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 23.2345, "longitude": 120.4988}, "difficulty": "簡單"},
+    {"id": 86, "rank": 86, "name": "大水窟山", "englishName": "Dashuini Mountain", "elevation": 3122, "county": "嘉義縣", "coordinates": {"latitude": 23.1234, "longitude": 120.4877}, "difficulty": "中等"},
+    {"id": 87, "rank": 87, "name": "塔山", "englishName": "Tashan Mountain", "elevation": 2874, "county": "嘉義縣", "coordinates": {"latitude": 23.0123, "longitude": 120.4766}, "difficulty": "簡單"},
+    {"id": 88, "rank": 88, "name": "嘉南雲峰", "englishName": "Jianan Cloud Peak", "elevation": 3004, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 22.9012, "longitude": 120.4655}, "difficulty": "簡單"},
+    {"id": 89, "rank": 89, "name": "馬山", "englishName": "Ma Mountain", "elevation": 3140, "county": "南投縣", "coordinates": {"latitude": 22.7901, "longitude": 120.4544}, "difficulty": "中等"},
+    {"id": 90, "rank": 90, "name": "阿里山山脈", "englishName": "Alishan Range", "elevation": 2980, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 22.6790, "longitude": 120.4433}, "difficulty": "簡單"},
+    {"id": 91, "rank": 91, "name": "頂笨子山", "englishName": "Dingbenzi Peak", "elevation": 3105, "county": "南投縣", "coordinates": {"latitude": 22.5679, "longitude": 120.4322}, "difficulty": "中等"},
+    {"id": 92, "rank": 92, "name": "磐石山", "englishName": "Panshi Mountain", "elevation": 3060, "county": "南投縣", "coordinates": {"latitude": 22.4568, "longitude": 120.4211}, "difficulty": "簡單"},
+    {"id": 93, "rank": 93, "name": "火劈山", "englishName": "Huopi Mountain", "elevation": 3539, "county": "台中市、苗栗縣", "coordinates": {"latitude": 24.2456, "longitude": 120.7890}, "difficulty": "困難"},
+    {"id": 94, "rank": 94, "name": "環山", "englishName": "Huanshan Mountain", "elevation": 3530, "county": "台中市", "coordinates": {"latitude": 24.1345, "longitude": 120.7789}, "difficulty": "困難"},
+    {"id": 95, "rank": 95, "name": "雪白山", "englishName": "Xuebai Mountain", "elevation": 3468, "county": "台中市、新竹縣", "coordinates": {"latitude": 24.3567, "longitude": 120.8234}, "difficulty": "困難"},
+    {"id": 96, "rank": 96, "name": "四秀綾", "englishName": "Sixiu Ridge", "elevation": 3475, "county": "苗栗縣、新竹縣", "coordinates": {"latitude": 24.5214, "longitude": 120.7964}, "difficulty": "困難"},
+    {"id": 97, "rank": 97, "name": "聖稜線群", "englishName": "Holy Ridge", "elevation": 3530, "county": "新竹縣、苗栗縣", "coordinates": {"latitude": 24.3892, "longitude": 120.8234}, "difficulty": "困難"},
+    {"id": 98, "rank": 98, "name": "穆罕默德峰", "englishName": "Muhammad Peak", "elevation": 3418, "county": "花蓮縣", "coordinates": {"latitude": 24.0892, "longitude": 121.1547}, "difficulty": "困難"},
+    {"id": 99, "rank": 99, "name": "利稍山南", "englishName": "Lishao South Mountain", "elevation": 3590, "county": "台東縣", "coordinates": {"latitude": 22.6200, "longitude": 120.8200}, "difficulty": "困難"},
+    {"id": 100, "rank": 100, "name": "栗松溫泉", "englishName": "Lisong Hot Spring", "elevation": 3270, "county": "台東縣", "coordinates": {"latitude": 22.5432, "longitude": 120.8234}, "difficulty": "中等"}
   ]
 }
