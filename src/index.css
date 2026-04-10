@@ -16,9 +16,9 @@ html, body, #root {
 }
 
 :root {
-  --text: #6b6375;
-  --text-h: #08060d;
-  --bg: #fff;
+  --text: #4a4a4a;
+  --text-h: #1A1A1A;
+  --bg: #FDFCFB;
   --border: oklch(0.922 0 0);
   --code-bg: #f4f3ec;
   --accent: oklch(0.97 0 0);
@@ -28,13 +28,13 @@ html, body, #root {
   --shadow:
     rgba(0, 0, 0, 0.1) 0 10px 15px -3px, rgba(0, 0, 0, 0.05) 0 4px 6px -2px;
 
-  --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
-  --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
+  --sans: 'Geist Variable', system-ui, -apple-system, sans-serif;
+  --heading: 'Georgia', 'Noto Serif TC', 'Times New Roman', serif;
   --mono: ui-monospace, Consolas, monospace;
 
-  font: 18px/145% var(--sans);
-  letter-spacing: 0.18px;
-  color-scheme: light dark;
+  font: 16px/170% var(--sans);
+  letter-spacing: 0.01em;
+  color-scheme: light;
   color: var(--text);
   background: var(--bg);
   font-synthesis: none;
@@ -46,65 +46,49 @@ html, body, #root {
     font-size: 16px;
   }
 
-  --background: oklch(1 0 0);
+  /* Basecamp warm-gray palette with forest green accent */
+  --background: #FDFCFB;
+  --foreground: #1A1A1A;
 
-  --foreground: oklch(0.145 0 0);
+  --card: #FDFCFB;
+  --card-foreground: #1A1A1A;
 
-  --card: oklch(1 0 0);
+  --popover: #FDFCFB;
+  --popover-foreground: #1A1A1A;
 
-  --card-foreground: oklch(0.145 0 0);
+  --primary: #2D3A3A;
+  --primary-foreground: #FDFCFB;
 
-  --popover: oklch(1 0 0);
+  --secondary: #F0EDEB;
+  --secondary-foreground: #2D3A3A;
 
-  --popover-foreground: oklch(0.145 0 0);
+  --muted: #F0EDEB;
+  --muted-foreground: #8A8580;
 
-  --primary: oklch(0.205 0 0);
-
-  --primary-foreground: oklch(0.985 0 0);
-
-  --secondary: oklch(0.97 0 0);
-
-  --secondary-foreground: oklch(0.205 0 0);
-
-  --muted: oklch(0.97 0 0);
-
-  --muted-foreground: oklch(0.556 0 0);
-
-  --accent-foreground: oklch(0.205 0 0);
+  --accent: #3D5A4C;
+  --accent-foreground: #FDFCFB;
 
   --destructive: oklch(0.577 0.245 27.325);
 
-  --input: oklch(0.922 0 0);
+  --input: #E8E4E0;
+  --ring: #2D3A3A;
 
-  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.45 0.12 155);
+  --chart-2: oklch(0.60 0.10 155);
+  --chart-3: oklch(0.85 0.15 85);
+  --chart-4: oklch(0.75 0.12 85);
+  --chart-5: oklch(0.35 0.08 155);
 
-  --chart-1: oklch(0.87 0 0);
+  --radius: 0.25rem;
 
-  --chart-2: oklch(0.556 0 0);
-
-  --chart-3: oklch(0.439 0 0);
-
-  --chart-4: oklch(0.371 0 0);
-
-  --chart-5: oklch(0.269 0 0);
-
-  --radius: 0.625rem;
-
-  --sidebar: oklch(0.985 0 0);
-
-  --sidebar-foreground: oklch(0.145 0 0);
-
-  --sidebar-primary: oklch(0.205 0 0);
-
-  --sidebar-primary-foreground: oklch(0.985 0 0);
-
-  --sidebar-accent: oklch(0.97 0 0);
-
-  --sidebar-accent-foreground: oklch(0.205 0 0);
-
-  --sidebar-border: oklch(0.922 0 0);
-
-  --sidebar-ring: oklch(0.708 0 0)
+  --sidebar: oklch(0.96 0.01 145);
+  --sidebar-foreground: oklch(0.18 0.04 155);
+  --sidebar-primary: oklch(0.35 0.12 155);
+  --sidebar-primary-foreground: oklch(0.98 0.01 145);
+  --sidebar-accent: oklch(0.92 0.03 145);
+  --sidebar-accent-foreground: oklch(0.25 0.06 155);
+  --sidebar-border: oklch(0.88 0.03 145);
+  --sidebar-ring: oklch(0.45 0.12 155)
 }
 
 @media (prefers-color-scheme: dark) {
@@ -132,41 +116,21 @@ body {
 }
 
 #root {
-  width: 1126px;
+  width: 100%;
   max-width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  border-inline: 1px solid var(--border);
+  margin: 0;
+  text-align: left;
   min-height: 100svh;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
 }
 
-h1,
-h2 {
+h1, h2 {
   font-family: var(--heading);
-  font-weight: 500;
   color: var(--text-h);
-}
-
-h1 {
-  font-size: 56px;
-  letter-spacing: -1.68px;
-  margin: 32px 0;
-  @media (max-width: 1024px) {
-    font-size: 36px;
-    margin: 20px 0;
-  }
-}
-h2 {
-  font-size: 24px;
-  line-height: 118%;
-  letter-spacing: -0.24px;
-  margin: 0 0 8px;
-  @media (max-width: 1024px) {
-    font-size: 20px;
-  }
+  letter-spacing: -0.02em;
+  line-height: 1.2;
 }
 p {
   margin: 0;

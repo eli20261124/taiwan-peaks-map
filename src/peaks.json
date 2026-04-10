@@ -1,104 +1,4352 @@
 {
   "peaks": [
-    {"id": 1, "rank": 1, "name": "玉山", "englishName": "Yu Shan", "elevation": 3952, "county": "高雄市、嘉義縣", "coordinates": {"latitude": 23.4724, "longitude": 120.9577}, "difficulty": "中等"},
-    {"id": 2, "rank": 2, "name": "雪山", "englishName": "Snow Mountain", "elevation": 3886, "county": "台中市、苗栗縣", "coordinates": {"latitude": 24.3654, "longitude": 120.8549}, "difficulty": "中等"},
-    {"id": 3, "rank": 3, "name": "南湖大山", "englishName": "Nanhu Mountain", "elevation": 3742, "county": "台中市、新竹縣", "coordinates": {"latitude": 24.6039, "longitude": 121.0376}, "difficulty": "困難"},
-    {"id": 4, "rank": 4, "name": "大霸尖山", "englishName": "Dabajianshan", "elevation": 3492, "county": "苗栗縣、新竹縣", "coordinates": {"latitude": 24.4884, "longitude": 120.7697}, "difficulty": "困難"},
-    {"id": 5, "rank": 5, "name": "奇萊北峰", "englishName": "Qilai North Peak", "elevation": 3607, "county": "花蓮縣、南投縣", "coordinates": {"latitude": 24.1511, "longitude": 121.1276}, "difficulty": "困難"},
-    {"id": 6, "rank": 6, "name": "北大武山", "englishName": "Beida Mount", "elevation": 3092, "county": "屏東縣", "coordinates": {"latitude": 22.6169, "longitude": 120.6820}, "difficulty": "中等"},
-    {"id": 7, "rank": 7, "name": "東郡山", "englishName": "Dongjun Mountain", "elevation": 3619, "county": "花蓮縣、台東縣", "coordinates": {"latitude": 24.0264, "longitude": 121.0821}, "difficulty": "困難"},
-    {"id": 8, "rank": 8, "name": "中央尖山", "englishName": "Central Peak", "elevation": 3705, "county": "台中市、新竹縣", "coordinates": {"latitude": 24.5383, "longitude": 120.8991}, "difficulty": "困難"},
-    {"id": 9, "rank": 9, "name": "秀姑巒山", "englishName": "Shuguolan Mountain", "elevation": 3825, "county": "花蓮縣、台東縣", "coordinates": {"latitude": 24.0819, "longitude": 121.0648}, "difficulty": "困難"},
-    {"id": 10, "rank": 10, "name": "馬博拉斯山", "englishName": "Mabolasi Mountain", "elevation": 3709, "county": "台東縣、南投縣", "coordinates": {"latitude": 23.5689, "longitude": 120.9823}, "difficulty": "困難"},
-    {"id": 11, "rank": 11, "name": "品田山", "englishName": "Pintian Mountain", "elevation": 3524, "county": "新竹縣、苗栗縣", "coordinates": {"latitude": 24.4678, "longitude": 120.7456}, "difficulty": "困難"},
-    {"id": 12, "rank": 12, "name": "向陽山", "englishName": "Xiangyang Mountain", "elevation": 3603, "county": "台東縣", "coordinates": {"latitude": 23.3456, "longitude": 120.9876}, "difficulty": "中等"},
-    {"id": 13, "rank": 13, "name": "關山", "englishName": "Guanshan Mountain", "elevation": 3668, "county": "台東縣", "coordinates": {"latitude": 21.8765, "longitude": 120.8123}, "difficulty": "困難"},
-    {"id": 14, "rank": 14, "name": "郡大山", "englishName": "Junda Mountain", "elevation": 3601, "county": "南投縣、台東縣", "coordinates": {"latitude": 23.0987, "longitude": 120.7998}, "difficulty": "困難"},
-    {"id": 15, "rank": 15, "name": "巒大山", "englishName": "Luanda Mountain", "elevation": 3601, "county": "南投縣、台東縣", "coordinates": {"latitude": 21.5432, "longitude": 120.8456}, "difficulty": "困難"},
-    {"id": 16, "rank": 16, "name": "霸南山", "englishName": "Banan Mountain", "elevation": 3353, "county": "台東縣", "coordinates": {"latitude": 22.9876, "longitude": 120.9123}, "difficulty": "困難"},
-    {"id": 17, "rank": 17, "name": "塔關山", "englishName": "Taguan Mountain", "elevation": 3303, "county": "台東縣", "coordinates": {"latitude": 23.5342, "longitude": 121.0457}, "difficulty": "中等"},
-    {"id": 18, "rank": 18, "name": "南玉山", "englishName": "South Yu Mountain", "elevation": 3383, "county": "高雄市、台東縣", "coordinates": {"latitude": 23.4018, "longitude": 120.9743}, "difficulty": "中等"},
-    {"id": 19, "rank": 19, "name": "新康山", "englishName": "Xinkang Mountain", "elevation": 3560, "county": "高雄市、台東縣", "coordinates": {"latitude": 23.1876, "longitude": 120.9654}, "difficulty": "困難"},
-    {"id": 20, "rank": 20, "name": "三叉山", "englishName": "Sancha Mountain", "elevation": 3496, "county": "高雄市、台東縣", "coordinates": {"latitude": 23.3021, "longitude": 120.9654}, "difficulty": "中等"},
-    {"id": 21, "rank": 21, "name": "大關山", "englishName": "Daguan Mountain", "elevation": 3168, "county": "台東縣", "coordinates": {"latitude": 23.2345, "longitude": 120.9876}, "difficulty": "中等"},
-    {"id": 22, "rank": 22, "name": "鹿山", "englishName": "Deer Mountain", "elevation": 3359, "county": "高雄市", "coordinates": {"latitude": 23.0987, "longitude": 120.9234}, "difficulty": "中等"},
-    {"id": 23, "rank": 23, "name": "雲峰", "englishName": "Cloud Peak", "elevation": 3564, "county": "南投縣、台東縣", "coordinates": {"latitude": 22.9234, "longitude": 120.8765}, "difficulty": "困難"},
-    {"id": 24, "rank": 24, "name": "白姑大山", "englishName": "Baigu Mountain", "elevation": 3311, "county": "台東縣", "coordinates": {"latitude": 22.7654, "longitude": 120.8456}, "difficulty": "困難"},
-    {"id": 25, "rank": 25, "name": "利稍山", "englishName": "Lishao Mountain", "elevation": 3619, "county": "台東縣", "coordinates": {"latitude": 22.6543, "longitude": 120.8345}, "difficulty": "困難"},
-    {"id": 26, "rank": 26, "name": "達芬尖山", "englishName": "DWF Peak", "elevation": 3306, "county": "台東縣", "coordinates": {"latitude": 22.8765, "longitude": 120.9012}, "difficulty": "困難"},
-    {"id": 27, "rank": 27, "name": "清水山", "englishName": "Qingshui Mountain", "elevation": 3451, "county": "南投縣", "coordinates": {"latitude": 22.3210, "longitude": 120.8012}, "difficulty": "中等"},
-    {"id": 28, "rank": 28, "name": "爆裂山", "englishName": "Burst Mountain", "elevation": 3505, "county": "高雄市、南投縣", "coordinates": {"latitude": 22.2109, "longitude": 120.7901}, "difficulty": "困難"},
-    {"id": 29, "rank": 29, "name": "月峰", "englishName": "Moon Peak", "elevation": 3498, "county": "高雄市", "coordinates": {"latitude": 22.4567, "longitude": 120.7234}, "difficulty": "中等"},
-    {"id": 30, "rank": 30, "name": "南大武山", "englishName": "South Daiwu Mountain", "elevation": 3297, "county": "屏東縣", "coordinates": {"latitude": 22.3456, "longitude": 120.6890}, "difficulty": "中等"},
-    {"id": 31, "rank": 31, "name": "牡丹山", "englishName": "Mudan Mountain", "elevation": 3287, "county": "屏東縣、台東縣", "coordinates": {"latitude": 22.2345, "longitude": 120.6789}, "difficulty": "中等"},
-    {"id": 32, "rank": 32, "name": "都蘭山", "englishName": "Dulan Mountain", "elevation": 3183, "county": "台東縣", "coordinates": {"latitude": 22.1234, "longitude": 120.6678}, "difficulty": "簡單"},
-    {"id": 33, "rank": 33, "name": "大武山", "englishName": "Dawu Mountain", "elevation": 3121, "county": "屏東縣", "coordinates": {"latitude": 22.0123, "longitude": 120.6567}, "difficulty": "簡單"},
-    {"id": 34, "rank": 34, "name": "會母山", "englishName": "Huimu Mountain", "elevation": 3050, "county": "屏東縣", "coordinates": {"latitude": 21.9012, "longitude": 120.6456}, "difficulty": "簡單"},
-    {"id": 35, "rank": 35, "name": "北雙芦", "englishName": "North Double Peak", "elevation": 3183, "county": "南投縣", "coordinates": {"latitude": 22.4321, "longitude": 120.8123}, "difficulty": "困難"},
-    {"id": 36, "rank": 36, "name": "雲龍山", "englishName": "Yunlong Mountain", "elevation": 3220, "county": "南投縣", "coordinates": {"latitude": 22.9876, "longitude": 120.7887}, "difficulty": "中等"},
-    {"id": 37, "rank": 37, "name": "南雙", "englishName": "South Double", "elevation": 3291, "county": "南投縣", "coordinates": {"latitude": 22.8765, "longitude": 120.7776}, "difficulty": "困難"},
-    {"id": 38, "rank": 38, "name": "六順山", "englishName": "Liushun Mountain", "elevation": 3383, "county": "南投縣、高雄市", "coordinates": {"latitude": 22.7654, "longitude": 120.7665}, "difficulty": "困難"},
-    {"id": 39, "rank": 39, "name": "中雙", "englishName": "Central Double", "elevation": 3330, "county": "南投縣", "coordinates": {"latitude": 22.6543, "longitude": 120.7554}, "difficulty": "困難"},
-    {"id": 40, "rank": 40, "name": "坪頂山", "englishName": "Pingding Mountain", "elevation": 3300, "county": "南投縣", "coordinates": {"latitude": 22.5432, "longitude": 120.7443}, "difficulty": "困難"},
-    {"id": 41, "rank": 41, "name": "南祿", "englishName": "Nanlu Mountain", "elevation": 3299, "county": "高雄市", "coordinates": {"latitude": 22.4321, "longitude": 120.7332}, "difficulty": "困難"},
-    {"id": 42, "rank": 42, "name": "吊橋山", "englishName": "Bridge Mountain", "elevation": 3347, "county": "高雄市", "coordinates": {"latitude": 22.3210, "longitude": 120.7221}, "difficulty": "困難"},
-    {"id": 43, "rank": 43, "name": "萬歲山", "englishName": "Wansui Mountain", "elevation": 3047, "county": "高雄市", "coordinates": {"latitude": 22.2109, "longitude": 120.7110}, "difficulty": "簡單"},
-    {"id": 44, "rank": 44, "name": "南雪", "englishName": "South Snow", "elevation": 3334, "county": "高雄市", "coordinates": {"latitude": 22.1098, "longitude": 120.6999}, "difficulty": "困難"},
-    {"id": 45, "rank": 45, "name": "內社", "englishName": "Neishe Mountain", "elevation": 3160, "county": "台東縣", "coordinates": {"latitude": 22.0987, "longitude": 120.8888}, "difficulty": "中等"},
-    {"id": 46, "rank": 46, "name": "池山", "englishName": "Chi Mountain", "elevation": 3303, "county": "台東縣", "coordinates": {"latitude": 22.1234, "longitude": 120.9123}, "difficulty": "中等"},
-    {"id": 47, "rank": 47, "name": "南峿", "englishName": "South Peak", "elevation": 3382, "county": "台東縣", "coordinates": {"latitude": 22.0543, "longitude": 120.8456}, "difficulty": "中等"},
-    {"id": 48, "rank": 48, "name": "江南山", "englishName": "Jiangnan Mountain", "elevation": 3355, "county": "台東縣、南投縣", "coordinates": {"latitude": 21.9876, "longitude": 120.8234}, "difficulty": "困難"},
-    {"id": 49, "rank": 49, "name": "海諾", "englishName": "Haino Mountain", "elevation": 3295, "county": "台東縣", "coordinates": {"latitude": 21.7654, "longitude": 120.8012}, "difficulty": "困難"},
-    {"id": 50, "rank": 50, "name": "中央山脈", "englishName": "Central Range", "elevation": 3450, "county": "花蓮縣、台東縣", "coordinates": {"latitude": 21.6543, "longitude": 120.9123}, "difficulty": "困難"},
-    {"id": 51, "rank": 51, "name": "月精山", "englishName": "Moon Spirit Mountain", "elevation": 3420, "county": "台東縣", "coordinates": {"latitude": 21.4321, "longitude": 120.7890}, "difficulty": "困難"},
-    {"id": 52, "rank": 52, "name": "安通山", "englishName": "Antong Mountain", "elevation": 3178, "county": "台東縣", "coordinates": {"latitude": 21.3210, "longitude": 120.7789}, "difficulty": "中等"},
-    {"id": 53, "rank": 53, "name": "知亞干山", "englishName": "Zhiyagan Mountain", "elevation": 3290, "county": "台東縣", "coordinates": {"latitude": 21.2109, "longitude": 120.7678}, "difficulty": "困難"},
-    {"id": 54, "rank": 54, "name": "里槍山", "englishName": "Lilong Mountain", "elevation": 3262, "county": "台東縣", "coordinates": {"latitude": 21.1098, "longitude": 120.7567}, "difficulty": "困難"},
-    {"id": 55, "rank": 55, "name": "赤石山", "englishName": "Chishi Mountain", "elevation": 3030, "county": "台東縣", "coordinates": {"latitude": 21.0987, "longitude": 120.7456}, "difficulty": "簡單"},
-    {"id": 56, "rank": 56, "name": "帕米安山", "englishName": "Palmian Mountain", "elevation": 3193, "county": "台東縣", "coordinates": {"latitude": 20.9876, "longitude": 120.7345}, "difficulty": "困難"},
-    {"id": 57, "rank": 57, "name": "楠山", "englishName": "Nan Mountain", "elevation": 3268, "county": "屏東縣、台東縣", "coordinates": {"latitude": 20.8765, "longitude": 120.6789}, "difficulty": "困難"},
-    {"id": 58, "rank": 58, "name": "南祿南山", "englishName": "Nanlu South Mountain", "elevation": 3280, "county": "屏東縣", "coordinates": {"latitude": 20.7654, "longitude": 120.6678}, "difficulty": "困難"},
-    {"id": 59, "rank": 59, "name": "龍文山", "englishName": "Longwen Mountain", "elevation": 3237, "county": "屏東縣", "coordinates": {"latitude": 20.6543, "longitude": 120.6567}, "difficulty": "困難"},
-    {"id": 60, "rank": 60, "name": "三龜山", "englishName": "Sangui Mountain", "elevation": 3197, "county": "屏東縣、台東縣", "coordinates": {"latitude": 20.5432, "longitude": 120.6456}, "difficulty": "中等"},
-    {"id": 61, "rank": 61, "name": "社母山", "englishName": "Shemushan Mountain", "elevation": 3102, "county": "屏東縣", "coordinates": {"latitude": 20.4321, "longitude": 120.6345}, "difficulty": "簡單"},
-    {"id": 62, "rank": 62, "name": "鹿路山", "englishName": "Lulu Mountain", "elevation": 3050, "county": "屏東縣", "coordinates": {"latitude": 20.3210, "longitude": 120.6234}, "difficulty": "簡單"},
-    {"id": 63, "rank": 63, "name": "高士山", "englishName": "Gaoshi Mountain", "elevation": 3015, "county": "屏東縣", "coordinates": {"latitude": 20.2109, "longitude": 120.6123}, "difficulty": "簡單"},
-    {"id": 64, "rank": 64, "name": "南部冰斗群", "englishName": "South Cirque Group", "elevation": 3080, "county": "屏東縣、台東縣", "coordinates": {"latitude": 20.1098, "longitude": 120.6012}, "difficulty": "中等"},
-    {"id": 65, "rank": 65, "name": "合歡北峰", "englishName": "Hehuanshan North", "elevation": 3419, "county": "南投縣", "coordinates": {"latitude": 23.9876, "longitude": 120.9876}, "difficulty": "簡單"},
-    {"id": 66, "rank": 66, "name": "合歡主峰", "englishName": "Hehuanshan Main", "elevation": 3417, "county": "南投縣", "coordinates": {"latitude": 23.9765, "longitude": 120.9765}, "difficulty": "簡單"},
-    {"id": 67, "rank": 67, "name": "合歡東峰", "englishName": "Hehuanshan East", "elevation": 3440, "county": "南投縣", "coordinates": {"latitude": 23.9654, "longitude": 120.9654}, "difficulty": "簡單"},
-    {"id": 68, "rank": 68, "name": "合歡南峰", "englishName": "Hehuanshan South", "elevation": 3382, "county": "南投縣", "coordinates": {"latitude": 23.9543, "longitude": 120.9543}, "difficulty": "簡單"},
-    {"id": 69, "rank": 69, "name": "合歡西峰", "englishName": "Hehuanshan West", "elevation": 3145, "county": "南投縣", "coordinates": {"latitude": 23.9432, "longitude": 120.9432}, "difficulty": "簡單"},
-    {"id": 70, "rank": 70, "name": "石門山", "englishName": "Shimen Mountain", "elevation": 3237, "county": "南投縣", "coordinates": {"latitude": 23.8765, "longitude": 120.9876}, "difficulty": "簡單"},
-    {"id": 71, "rank": 71, "name": "奇萊南峰", "englishName": "Qilai South Peak", "elevation": 3530, "county": "花蓮縣、南投縣", "coordinates": {"latitude": 24.0987, "longitude": 121.1098}, "difficulty": "困難"},
-    {"id": 72, "rank": 72, "name": "閣山", "englishName": "Ge Mountain", "elevation": 3373, "county": "花蓮縣", "coordinates": {"latitude": 24.2109, "longitude": 121.2210}, "difficulty": "困難"},
-    {"id": 73, "rank": 73, "name": "能高山", "englishName": "Nenggao Mountain", "elevation": 3202, "county": "南投縣、花蓮縣", "coordinates": {"latitude": 24.0234, "longitude": 120.9654}, "difficulty": "中等"},
-    {"id": 74, "rank": 74, "name": "西峰", "englishName": "West Peak", "elevation": 3478, "county": "南投縣", "coordinates": {"latitude": 23.7654, "longitude": 120.8765}, "difficulty": "困難"},
-    {"id": 75, "rank": 75, "name": "東峰", "englishName": "East Peak", "elevation": 3510, "county": "南投縣", "coordinates": {"latitude": 23.6543, "longitude": 120.8654}, "difficulty": "困難"},
-    {"id": 76, "rank": 76, "name": "中峰", "englishName": "Central Peak", "elevation": 3500, "county": "南投縣", "coordinates": {"latitude": 23.5432, "longitude": 120.8543}, "difficulty": "困難"},
-    {"id": 77, "rank": 77, "name": "塔塔加", "englishName": "Tatayaka", "elevation": 2610, "county": "南投縣", "coordinates": {"latitude": 23.4321, "longitude": 120.8432}, "difficulty": "簡單"},
-    {"id": 78, "rank": 78, "name": "八通關山", "englishName": "Batonguan Mountain", "elevation": 3335, "county": "南投縣", "coordinates": {"latitude": 23.3210, "longitude": 120.8321}, "difficulty": "中等"},
-    {"id": 79, "rank": 79, "name": "陶塞", "englishName": "Taose Mountain", "elevation": 3306, "county": "南投縣", "coordinates": {"latitude": 23.2109, "longitude": 120.8210}, "difficulty": "困難"},
-    {"id": 80, "rank": 80, "name": "雨天嶺", "englishName": "Rainy Ridge", "elevation": 3236, "county": "南投縣", "coordinates": {"latitude": 23.1098, "longitude": 120.8109}, "difficulty": "困難"},
-    {"id": 81, "rank": 81, "name": "重光山", "englishName": "Zhongguang Mountain", "elevation": 3218, "county": "嘉義縣", "coordinates": {"latitude": 23.6789, "longitude": 120.5432}, "difficulty": "中等"},
-    {"id": 82, "rank": 82, "name": "自來水山", "englishName": "Water Source Mountain", "elevation": 3190, "county": "嘉義縣", "coordinates": {"latitude": 23.5678, "longitude": 120.5321}, "difficulty": "中等"},
-    {"id": 83, "rank": 83, "name": "三舞山", "englishName": "Sanwu Mountain", "elevation": 3356, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 23.4567, "longitude": 120.5210}, "difficulty": "困難"},
-    {"id": 84, "rank": 84, "name": "瑞峰", "englishName": "Ruifeng Peak", "elevation": 2787, "county": "嘉義縣", "coordinates": {"latitude": 23.3456, "longitude": 120.5099}, "difficulty": "簡單"},
-    {"id": 85, "rank": 85, "name": "中之關", "englishName": "Zhong Gate", "elevation": 3003, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 23.2345, "longitude": 120.4988}, "difficulty": "簡單"},
-    {"id": 86, "rank": 86, "name": "大水窟山", "englishName": "Dashuini Mountain", "elevation": 3122, "county": "嘉義縣", "coordinates": {"latitude": 23.1234, "longitude": 120.4877}, "difficulty": "中等"},
-    {"id": 87, "rank": 87, "name": "塔山", "englishName": "Tashan Mountain", "elevation": 2874, "county": "嘉義縣", "coordinates": {"latitude": 23.0123, "longitude": 120.4766}, "difficulty": "簡單"},
-    {"id": 88, "rank": 88, "name": "嘉南雲峰", "englishName": "Jianan Cloud Peak", "elevation": 3004, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 22.9012, "longitude": 120.4655}, "difficulty": "簡單"},
-    {"id": 89, "rank": 89, "name": "馬山", "englishName": "Ma Mountain", "elevation": 3140, "county": "南投縣", "coordinates": {"latitude": 22.7901, "longitude": 120.4544}, "difficulty": "中等"},
-    {"id": 90, "rank": 90, "name": "阿里山山脈", "englishName": "Alishan Range", "elevation": 2980, "county": "嘉義縣、南投縣", "coordinates": {"latitude": 22.6790, "longitude": 120.4433}, "difficulty": "簡單"},
-    {"id": 91, "rank": 91, "name": "頂笨子山", "englishName": "Dingbenzi Peak", "elevation": 3105, "county": "南投縣", "coordinates": {"latitude": 22.5679, "longitude": 120.4322}, "difficulty": "中等"},
-    {"id": 92, "rank": 92, "name": "磐石山", "englishName": "Panshi Mountain", "elevation": 3060, "county": "南投縣", "coordinates": {"latitude": 22.4568, "longitude": 120.4211}, "difficulty": "簡單"},
-    {"id": 93, "rank": 93, "name": "火劈山", "englishName": "Huopi Mountain", "elevation": 3539, "county": "台中市、苗栗縣", "coordinates": {"latitude": 24.2456, "longitude": 120.7890}, "difficulty": "困難"},
-    {"id": 94, "rank": 94, "name": "環山", "englishName": "Huanshan Mountain", "elevation": 3530, "county": "台中市", "coordinates": {"latitude": 24.1345, "longitude": 120.7789}, "difficulty": "困難"},
-    {"id": 95, "rank": 95, "name": "雪白山", "englishName": "Xuebai Mountain", "elevation": 3468, "county": "台中市、新竹縣", "coordinates": {"latitude": 24.3567, "longitude": 120.8234}, "difficulty": "困難"},
-    {"id": 96, "rank": 96, "name": "四秀綾", "englishName": "Sixiu Ridge", "elevation": 3475, "county": "苗栗縣、新竹縣", "coordinates": {"latitude": 24.5214, "longitude": 120.7964}, "difficulty": "困難"},
-    {"id": 97, "rank": 97, "name": "聖稜線群", "englishName": "Holy Ridge", "elevation": 3530, "county": "新竹縣、苗栗縣", "coordinates": {"latitude": 24.3892, "longitude": 120.8234}, "difficulty": "困難"},
-    {"id": 98, "rank": 98, "name": "穆罕默德峰", "englishName": "Muhammad Peak", "elevation": 3418, "county": "花蓮縣", "coordinates": {"latitude": 24.0892, "longitude": 121.1547}, "difficulty": "困難"},
-    {"id": 99, "rank": 99, "name": "利稍山南", "englishName": "Lishao South Mountain", "elevation": 3590, "county": "台東縣", "coordinates": {"latitude": 22.6200, "longitude": 120.8200}, "difficulty": "困難"},
-    {"id": 100, "rank": 100, "name": "栗松溫泉", "englishName": "Lisong Hot Spring", "elevation": 3270, "county": "台東縣", "coordinates": {"latitude": 22.5432, "longitude": 120.8234}, "difficulty": "中等"}
+    {
+      "id": 1,
+      "rank": 1,
+      "name": "玉山",
+      "englishName": "Yushan (Jade Mt.)",
+      "elevation": 3952,
+      "county": "南投縣、嘉義縣、高雄市",
+      "coordinates": {
+        "latitude": 23.4711,
+        "longitude": 120.9572
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "經典路線",
+        "新手友善",
+        "日出聖地"
+      ],
+      "description": "台灣最高峰，東北亞第一高峰。排雲山莊提供完善住宿，是多數人的第一座百岳首選。",
+      "wildlife": [
+        {
+          "name": "玉山圓柏",
+          "desc": "台灣最高海拔的木本植物，樹形蒼勁扭曲",
+          "type": "plant"
+        },
+        {
+          "name": "玉山薄雪草",
+          "desc": "稀有高山植物，類似歐洲雪絨花",
+          "type": "plant"
+        },
+        {
+          "name": "台灣水鹿",
+          "desc": "台灣最大的原生鹿科動物，常於黃昏出沒",
+          "type": "mammal"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "rank": 2,
+      "name": "雪山",
+      "englishName": "Xueshan (Snow Mt.)",
+      "elevation": 3886,
+      "county": "台中市、苗栗縣",
+      "coordinates": {
+        "latitude": 24.3833,
+        "longitude": 121.2314
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "經典路線",
+        "圈谷地形",
+        "雪季熱門"
+      ],
+      "description": "台灣第二高峰，擁有冰河時期遺留的圈谷地形，三六九山莊是重要中繼站。",
+      "wildlife": [
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣山毛櫸",
+          "desc": "冰河孓遺植物，秋季金黃落葉壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "rank": 3,
+      "name": "玉山東峰",
+      "englishName": "Yushan East Peak",
+      "elevation": 3869,
+      "county": "南投縣、高雄市",
+      "coordinates": {
+        "latitude": 23.4694,
+        "longitude": 120.9625
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "碎石坡",
+        "拉繩攀岩",
+        "展望佳"
+      ],
+      "description": "玉山群峰之一，最後一段需拉繩攀爬碎石壁，具挑戰性但展望極佳。",
+      "wildlife": [
+        {
+          "name": "金翼白眉",
+          "desc": "高山常見鳥類，不怕人",
+          "type": "bird"
+        },
+        {
+          "name": "玉山薄雪草",
+          "desc": "稀有高山植物，類似歐洲雪絨花",
+          "type": "plant"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "高山草原的主要植被，為野生動物提供棲息地",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "rank": 4,
+      "name": "玉山北峰",
+      "englishName": "Yushan North Peak",
+      "elevation": 3858,
+      "county": "南投縣、嘉義縣",
+      "coordinates": {
+        "latitude": 23.4806,
+        "longitude": 120.9539
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "氣象站",
+        "展望佳"
+      ],
+      "description": "山頂有台灣最高的氣象觀測站，視野遼闊可俯瞰玉山群峰全景。",
+      "wildlife": [
+        {
+          "name": "酒紅朱雀",
+          "desc": "高海拔特有亞種鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種",
+          "type": "plant"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "rank": 5,
+      "name": "玉山南峰",
+      "englishName": "Yushan South Peak",
+      "elevation": 3844,
+      "county": "南投縣、高雄市",
+      "coordinates": {
+        "latitude": 23.4583,
+        "longitude": 120.9542
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "岩壁攀爬",
+        "天候多變"
+      ],
+      "description": "玉山群峰中最具技術性的一座，需攀爬陡峭岩壁，天氣變化快速。",
+      "wildlife": [
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "台灣長鬃山羊",
+          "desc": "台灣唯一原生牛科，善攀岩壁",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "rank": 6,
+      "name": "秀姑巒山",
+      "englishName": "Xiuguluan Mt.",
+      "elevation": 3825,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 23.4667,
+        "longitude": 121.05
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "長程縱走",
+        "中央山脈最高峰"
+      ],
+      "description": "中央山脈最高峰，位於深山中需長程縱走才能到達，是百岳中最具挑戰的路線之一。",
+      "wildlife": [
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "rank": 7,
+      "name": "馬博拉斯山",
+      "englishName": "Mabolasi Mt.",
+      "elevation": 3765,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 23.5139,
+        "longitude": 121.0389
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "長程縱走",
+        "原始路徑"
+      ],
+      "description": "十峻之一，通常經馬博橫斷路線攀登，路途遙遠且原始。",
+      "wildlife": [
+        {
+          "name": "台灣山羌",
+          "desc": "小型鹿科，叫聲似犬吠",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣二葉松",
+          "desc": "中海拔代表性松樹",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "rank": 8,
+      "name": "南湖大山",
+      "englishName": "Nanhu Dashan",
+      "elevation": 3742,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.3583,
+        "longitude": 121.4361
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "帝王之山",
+        "圈谷地形",
+        "高山湖泊"
+      ],
+      "description": "有「帝王之山」美譽，擁有台灣最大的冰河圈谷群，南湖山莊可住宿。",
+      "wildlife": [
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "台灣最高海拔的木本植物，樹形蒼勁扭曲",
+          "type": "plant"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣水鹿",
+          "desc": "台灣最大的原生鹿科動物，常於黃昏出沒",
+          "type": "mammal"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "rank": 9,
+      "name": "東小南山",
+      "englishName": "Dongxiaonan Mt.",
+      "elevation": 3711,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.3083,
+        "longitude": 120.9861
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "偏遠",
+        "南二段"
+      ],
+      "description": "南二段路線中的一座，位置偏遠，路程漫長。",
+      "wildlife": [
+        {
+          "name": "台灣葉鼻蝠",
+          "desc": "台灣特有種蝙蝠",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "台灣特有種，世界級珍稀樹種",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "rank": 10,
+      "name": "中央尖山",
+      "englishName": "Zhongyangjian Mt.",
+      "elevation": 3705,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.3681,
+        "longitude": 121.3903
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "三尖之首",
+        "溪谷路線",
+        "碎石坡"
+      ],
+      "description": "「一尖、二尖、三尖」之首，被稱為台灣最美的尖峰。攀登路線需經死亡稜線，極具挑戰。",
+      "wildlife": [
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "台灣長鬃山羊",
+          "desc": "台灣唯一原生牛科，善攀岩壁",
+          "type": "mammal"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "酒紅朱雀",
+          "desc": "高海拔特有亞種，雄鳥全身酒紅色",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "rank": 11,
+      "name": "雪山北峰",
+      "englishName": "Xueshan North Peak",
+      "elevation": 3703,
+      "county": "台中市、苗栗縣",
+      "coordinates": {
+        "latitude": 24.41,
+        "longitude": 121.2236
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "聖稜線",
+        "翠池"
+      ],
+      "description": "聖稜線的重要節點，附近有全台最高的高山湖泊—翠池。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一靈長類",
+          "type": "mammal"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "高山針葉樹，翠池旁群落壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "rank": 12,
+      "name": "關山",
+      "englishName": "Guanshan",
+      "elevation": 3668,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.2458,
+        "longitude": 120.9542
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "南橫",
+        "日出聖地"
+      ],
+      "description": "南橫三星之一，以壯麗的關山日出聞名，是南台灣重要高山。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "大型鹿科，夜間常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣原生百合，白色喇叭狀花",
+          "type": "plant"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "台灣最高海拔的木本植物，樹形蒼勁扭曲",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "rank": 13,
+      "name": "奇萊北峰",
+      "englishName": "Qilai North Peak",
+      "elevation": 3607,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 24.0851,
+        "longitude": 121.2821
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "黑色奇萊",
+        "天候多變",
+        "箭竹草坡"
+      ],
+      "description": "「黑色奇萊」之名源於山頭常年烏雲籠罩，天候變化極端。草坡展望壯麗。",
+      "wildlife": [
+        {
+          "name": "台灣朱雀",
+          "desc": "高山鳥類，雄鳥朱紅色",
+          "type": "bird"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "高山箭竹草原，綿延壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "rank": 14,
+      "name": "南湖大山東峰",
+      "englishName": "Nanhu East Peak",
+      "elevation": 3632,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.3528,
+        "longitude": 121.4472
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "圈谷",
+        "冰河遺跡"
+      ],
+      "description": "南湖群峰之一，可一覽上下圈谷全景。",
+      "wildlife": [
+        {
+          "name": "岩鷚",
+          "desc": "高山裸岩環境指標鳥種",
+          "type": "bird"
+        },
+        {
+          "name": "南湖柳葉菜",
+          "desc": "南湖大山特有種植物",
+          "type": "animal"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "rank": 15,
+      "name": "東郡大山",
+      "englishName": "Dongjun Dashan",
+      "elevation": 3619,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.6306,
+        "longitude": 121.1639
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "東郡橫斷",
+        "偏遠"
+      ],
+      "description": "東郡橫斷的主峰，地處深山需長途跋涉，是百岳中最偏遠的路線之一。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "深山中較有機會目擊",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "台灣特有巨木，壽命可逾千年",
+          "type": "plant"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "台灣最高海拔的木本植物，樹形蒼勁扭曲",
+          "type": "plant"
+        },
+        {
+          "name": "高山白腹鼠",
+          "desc": "台灣特有種，棲息於3000公尺以上高山",
+          "type": "mammal"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "rank": 16,
+      "name": "奇萊主峰",
+      "englishName": "Qilai Main Peak",
+      "elevation": 3560,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 24.0667,
+        "longitude": 121.275
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "黑色奇萊",
+        "岩壁地形"
+      ],
+      "description": "奇萊連峰主峰，山勢雄偉險峻，最後登頂需攀爬岩壁。",
+      "wildlife": [
+        {
+          "name": "台灣山羊",
+          "desc": "長鬃山羊，台灣唯一野生牛科",
+          "type": "mammal"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "春末盛開，粉白花海",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        },
+        {
+          "name": "高山白腹鼠",
+          "desc": "台灣特有種，棲息於3000公尺以上高山",
+          "type": "mammal"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "rank": 17,
+      "name": "向陽山",
+      "englishName": "Xiangyang Mt.",
+      "elevation": 3602,
+      "county": "台東縣、高雄市",
+      "coordinates": {
+        "latitude": 23.3256,
+        "longitude": 120.9976
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "南橫",
+        "草原",
+        "新手進階"
+      ],
+      "description": "南橫三星之一，有寬闊的箭竹草原和絕佳的日出展望，向陽山屋可住宿。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國鳥",
+          "type": "bird"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "秋季轉為金黃色，景色壯麗",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "rank": 18,
+      "name": "大水窟山",
+      "englishName": "Dashuiku Mt.",
+      "elevation": 3642,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.4361,
+        "longitude": 121.0417
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "八通關",
+        "高山草原"
+      ],
+      "description": "八通關古道上的重要山峰，附近有美麗的大水窟營地和高山草原。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "營地附近常有群聚",
+          "type": "mammal"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鈴鐺狀花朵",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "rank": 19,
+      "name": "品田山",
+      "englishName": "Pintian Mt.",
+      "elevation": 3524,
+      "county": "新竹縣、台中市",
+      "coordinates": {
+        "latitude": 24.4117,
+        "longitude": 121.1736
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "武陵四秀",
+        "品田斷崖"
+      ],
+      "description": "武陵四秀之首，品田斷崖是全程最驚險路段，岩層褶皺地質景觀壯觀。",
+      "wildlife": [
+        {
+          "name": "大冠鷲",
+          "desc": "中低海拔猛禽，盤旋時展翅壯觀",
+          "type": "bird"
+        },
+        {
+          "name": "台灣紅豆杉",
+          "desc": "珍稀裸子植物，紅色果實",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "rank": 20,
+      "name": "三叉山",
+      "englishName": "Sancha Mt.",
+      "elevation": 3496,
+      "county": "花蓮縣、台東縣",
+      "coordinates": {
+        "latitude": 23.3303,
+        "longitude": 121.0325
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "嘉明湖",
+        "高山草原",
+        "新手進階"
+      ],
+      "description": "嘉明湖路線經過的山峰，頂部為廣闊的高山草原，展望極佳。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "嘉明湖一帶族群穩定",
+          "type": "mammal"
+        },
+        {
+          "name": "高山白珠樹",
+          "desc": "常綠灌木，紅色漿果",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "rank": 21,
+      "name": "大霸尖山",
+      "englishName": "Dabajian Mt.",
+      "elevation": 3492,
+      "county": "苗栗縣、新竹縣",
+      "coordinates": {
+        "latitude": 24.4606,
+        "longitude": 121.1486
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "世紀奇峰",
+        "岩壁地形",
+        "聖稜線"
+      ],
+      "description": "有「世紀奇峰」之稱，酒桶形巨岩矗立天際，壯觀無比。目前山頂禁止攀登以保護原住民聖地。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "大鹿林道常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣一葉蘭",
+          "desc": "珍稀蘭花，粉紫色",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "rank": 22,
+      "name": "雪山東峰",
+      "englishName": "Xueshan East Peak",
+      "elevation": 3201,
+      "county": "台中市",
+      "coordinates": {
+        "latitude": 24.3739,
+        "longitude": 121.2497
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "新手首選",
+        "展望佳",
+        "步道完善"
+      ],
+      "description": "許多人的第一座百岳！步道維護良好，從武陵農場出發，是入門百岳的絕佳選擇。",
+      "wildlife": [
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        },
+        {
+          "name": "金翼白眉",
+          "desc": "高山常見鳥類，不怕人，常在山屋附近覓食",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "rank": 23,
+      "name": "合歡北峰",
+      "englishName": "Hehuan North Peak",
+      "elevation": 3422,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.1667,
+        "longitude": 121.275
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "新手首選",
+        "單攻",
+        "草原"
+      ],
+      "description": "合歡群峰中最高，寬闊的箭竹草原和高山杜鵑是招牌風景，當日可來回。",
+      "wildlife": [
+        {
+          "name": "酒紅朱雀",
+          "desc": "高山常見雀鳥",
+          "type": "bird"
+        },
+        {
+          "name": "高山杜鵑",
+          "desc": "每年5-6月盛開，花海壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "rank": 24,
+      "name": "合歡東峰",
+      "englishName": "Hehuan East Peak",
+      "elevation": 3421,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.15,
+        "longitude": 121.2833
+      },
+      "difficultyStars": 1,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "新手首選",
+        "單攻",
+        "最易百岳"
+      ],
+      "description": "台灣最容易攀登的百岳之一，從合歡山停車場出發約2小時即可登頂。",
+      "wildlife": [
+        {
+          "name": "金翼白眉",
+          "desc": "不怕人，常在山頂出沒",
+          "type": "bird"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "高山草原主要植被",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "rank": 25,
+      "name": "合歡主峰",
+      "englishName": "Hehuan Main Peak",
+      "elevation": 3417,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.1417,
+        "longitude": 121.2708
+      },
+      "difficultyStars": 1,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "新手首選",
+        "單攻",
+        "最易百岳"
+      ],
+      "description": "步道平緩，幾乎像走公園散步，是入門百岳的不二選擇。山頂可360度環景。",
+      "wildlife": [
+        {
+          "name": "灰鷽",
+          "desc": "高海拔雀形目鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山草甸指標植物",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "台灣山羌",
+          "desc": "台灣特有亞種，體型嬌小的鹿科動物",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "rank": 26,
+      "name": "合歡西峰",
+      "englishName": "Hehuan West Peak",
+      "elevation": 3145,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 24.1458,
+        "longitude": 121.2417
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "來回距離長",
+        "體力考驗"
+      ],
+      "description": "合歡群峰中距離最長的，來回約22公里，雖不難但需要好體力單攻完成。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "合歡西峰路線偶見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "純林景觀優美",
+          "type": "plant"
+        },
+        {
+          "name": "一葉蘭",
+          "desc": "台灣特有蘭花，生長於岩壁苔蘚間",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "rank": 27,
+      "name": "石門山",
+      "englishName": "Shimen Mt.",
+      "elevation": 3237,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.1556,
+        "longitude": 121.2889
+      },
+      "difficultyStars": 1,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "最易百岳",
+        "20分鐘登頂",
+        "新手必爬"
+      ],
+      "description": "最容易的百岳！從停車場走20分鐘就能登頂，是小朋友都能完成的百岳。",
+      "wildlife": [
+        {
+          "name": "玉山箭竹",
+          "desc": "高山草原的主要植被，為野生動物提供棲息地",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        },
+        {
+          "name": "金翼白眉",
+          "desc": "高山常見鳥類，不怕人，常在山屋附近覓食",
+          "type": "bird"
+        },
+        {
+          "name": "高山田鼠",
+          "desc": "台灣特有種，棲息於高山箭竹草原",
+          "type": "mammal"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "rank": 28,
+      "name": "白姑大山",
+      "englishName": "Baigu Dashan",
+      "elevation": 3341,
+      "county": "台中市、南投縣",
+      "coordinates": {
+        "latitude": 24.2194,
+        "longitude": 121.175
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "獨立山頭",
+        "路跡不明",
+        "中級挑戰"
+      ],
+      "description": "獨立山頭，路徑較不明顯，中級登山者的良好挑戰。",
+      "wildlife": [
+        {
+          "name": "山羌",
+          "desc": "小型鹿科，晨昏活動",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "途中可見巨大紅檜",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "rank": 29,
+      "name": "八通關山",
+      "englishName": "Batongguan Mt.",
+      "elevation": 3335,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.4778,
+        "longitude": 121.0556
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "八通關古道",
+        "歷史路徑"
+      ],
+      "description": "八通關古道沿線重要山峰，步道充滿歷史氛圍，昔日原住民與日治時代的古道遺跡。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "八通關一帶有記錄",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣秀柱花",
+          "desc": "特有種灌木植物",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "台灣噪鶥",
+          "desc": "台灣特有種，常成群活動於箭竹叢間",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "rank": 30,
+      "name": "北大武山",
+      "englishName": "Beidawu Mt.",
+      "elevation": 3092,
+      "county": "屏東縣、台東縣",
+      "coordinates": {
+        "latitude": 22.6183,
+        "longitude": 120.7628
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "南台灣屏障",
+        "雲海",
+        "鐵杉巨木"
+      ],
+      "description": "南台灣最高峰，排灣族聖山。鐵杉巨木林和壯觀雲海是其招牌景色。",
+      "wildlife": [
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣長鬃山羊",
+          "desc": "台灣唯一原生牛科，善攀岩壁",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "rank": 31,
+      "name": "嘉明湖",
+      "englishName": "Jiaming Lake Peak",
+      "elevation": 3603,
+      "county": "台東縣",
+      "coordinates": {
+        "latitude": 23.3167,
+        "longitude": 121.0139
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "天使的眼淚",
+        "高山湖泊",
+        "熱門路線"
+      ],
+      "description": "嘉明湖被稱為「天使的眼淚」，海拔3310m是台灣第二高的高山湖泊，湖水湛藍如寶石。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "嘉明湖湖畔常見",
+          "type": "mammal"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "秋季金黃一片",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "酒紅朱雀",
+          "desc": "高海拔特有亞種，雄鳥全身酒紅色",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "rank": 32,
+      "name": "能高山",
+      "englishName": "Nenggao Mt.",
+      "elevation": 3262,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.0333,
+        "longitude": 121.2667
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "能高越嶺",
+        "光被八表",
+        "古道"
+      ],
+      "description": "能高越嶺道上的主峰，「光被八表」碑是著名地標，可遠眺東西兩側海景。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "台灣國鳥，出沒於步道旁",
+          "type": "bird"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "春季步道兩旁盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        },
+        {
+          "name": "台灣山羌",
+          "desc": "台灣特有亞種，體型嬌小的鹿科動物",
+          "type": "mammal"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "rank": 33,
+      "name": "畢祿山",
+      "englishName": "Bilu Mt.",
+      "elevation": 3371,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.2,
+        "longitude": 121.2889
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "820林道",
+        "中級路線"
+      ],
+      "description": "從820林道進入，路程中等，是中級登山者的好選擇。",
+      "wildlife": [
+        {
+          "name": "紅檜",
+          "desc": "台灣最大的樹種，樹齡可達數千年",
+          "type": "plant"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "台灣特有種，材質芬芳珍貴",
+          "type": "plant"
+        },
+        {
+          "name": "藍腹鷴",
+          "desc": "台灣特有種，外表華麗的雉科鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣山毛櫸",
+          "desc": "冰河孓遺植物，秋季金黃落葉壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "rank": 34,
+      "name": "羊頭山",
+      "englishName": "Yangtou Mt.",
+      "elevation": 3035,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.1833,
+        "longitude": 121.3167
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "陡上陡下",
+        "單攻"
+      ],
+      "description": "從畢祿山登山口附近出發，陡上陡下極為辛苦，但可單日完成。",
+      "wildlife": [
+        {
+          "name": "斯文豪氏攀蜥",
+          "desc": "台灣特有種蜥蜴",
+          "type": "reptile"
+        },
+        {
+          "name": "台灣蘆竹",
+          "desc": "中海拔草本植物",
+          "type": "plant"
+        },
+        {
+          "name": "台灣二葉松",
+          "desc": "中海拔常見松樹，松果可食",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "rank": 35,
+      "name": "郡大山",
+      "englishName": "Junda Mt.",
+      "elevation": 3263,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.675,
+        "longitude": 120.9667
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "新手首選",
+        "林道進入",
+        "展望佳"
+      ],
+      "description": "可開車至登山口，再步行約4小時登頂。展望極佳，可見玉山群峰。是新手推薦百岳。",
+      "wildlife": [
+        {
+          "name": "藍腹鷴",
+          "desc": "台灣特有種，雄鳥藍色華麗",
+          "type": "bird"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "台灣特有種杉木",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "rank": 36,
+      "name": "西巒大山",
+      "englishName": "Xiluan Dashan",
+      "elevation": 3081,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.7583,
+        "longitude": 120.925
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "陡上",
+        "單攻",
+        "體力考驗"
+      ],
+      "description": "以陡峭聞名，單程雖短但爬升大，需要良好體力。",
+      "wildlife": [
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        },
+        {
+          "name": "冠羽畫眉",
+          "desc": "台灣特有種，有醒目的羽冠",
+          "type": "bird"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "rank": 37,
+      "name": "池有山",
+      "englishName": "Chiyou Mt.",
+      "elevation": 3303,
+      "county": "新竹縣、台中市",
+      "coordinates": {
+        "latitude": 24.4028,
+        "longitude": 121.1833
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "武陵四秀",
+        "新手進階",
+        "高山池"
+      ],
+      "description": "武陵四秀之一，山頂附近有美麗的高山池塘，路線相對親民。",
+      "wildlife": [
+        {
+          "name": "冠羽畫眉",
+          "desc": "活潑愛鳴叫的特有種鳥",
+          "type": "bird"
+        },
+        {
+          "name": "台灣筷子芥",
+          "desc": "高山特有草本植物",
+          "type": "animal"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "rank": 38,
+      "name": "桃山",
+      "englishName": "Taoshan",
+      "elevation": 3325,
+      "county": "新竹縣、台中市",
+      "coordinates": {
+        "latitude": 24.4222,
+        "longitude": 121.1889
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "武陵四秀",
+        "桃山瀑布",
+        "新手進階"
+      ],
+      "description": "武陵四秀之一，山形像桃子而得名，桃山瀑布是途中亮點。",
+      "wildlife": [
+        {
+          "name": "松雀鷹",
+          "desc": "中海拔森林猛禽",
+          "type": "bird"
+        },
+        {
+          "name": "台灣赤楊",
+          "desc": "先驅樹種，崩塌地常見",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "rank": 39,
+      "name": "喀拉業山",
+      "englishName": "Kalaye Mt.",
+      "elevation": 3133,
+      "county": "新竹縣、台中市",
+      "coordinates": {
+        "latitude": 24.4375,
+        "longitude": 121.1861
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "武陵四秀",
+        "路程長"
+      ],
+      "description": "武陵四秀之一，距離最遠，需從桃山走長稜線才能到達。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "林間活動",
+          "type": "mammal"
+        },
+        {
+          "name": "阿里山龍膽",
+          "desc": "小型紫色花朵",
+          "type": "plant"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "台灣特有種，材質芬芳珍貴",
+          "type": "plant"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "rank": 40,
+      "name": "小霸尖山",
+      "englishName": "Xiaoba Jianshan",
+      "elevation": 3418,
+      "county": "苗栗縣、新竹縣",
+      "coordinates": {
+        "latitude": 24.4528,
+        "longitude": 121.1528
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "聖稜線",
+        "岩壁"
+      ],
+      "description": "大霸尖山旁的小尖峰，通常與大霸一起攀登。",
+      "wildlife": [
+        {
+          "name": "金翼白眉",
+          "desc": "稜線上常見",
+          "type": "bird"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "春季開花",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "rank": 41,
+      "name": "南玉山",
+      "englishName": "Nanyu Mt.",
+      "elevation": 3383,
+      "county": "高雄市、南投縣",
+      "coordinates": {
+        "latitude": 23.4472,
+        "longitude": 120.9444
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南一段",
+        "偏遠"
+      ],
+      "description": "玉山群峰最南端，南一段的起點之一，路途遙遠。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "深山有記錄",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "珍稀針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "台灣長鬃山羊",
+          "desc": "台灣唯一原生牛科，善攀岩壁",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "rank": 42,
+      "name": "塔關山",
+      "englishName": "Taguan Mt.",
+      "elevation": 3222,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.2667,
+        "longitude": 120.95
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "南橫三星",
+        "展望佳"
+      ],
+      "description": "南橫三星之一（向陽、三叉、塔關），展望極佳。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "偶見於步道",
+          "type": "bird"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "廣大箭竹草原",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "rank": 43,
+      "name": "雲峰",
+      "englishName": "Yunfeng",
+      "elevation": 3564,
+      "county": "高雄市、花蓮縣",
+      "coordinates": {
+        "latitude": 23.3583,
+        "longitude": 121.0083
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南二段",
+        "偏遠"
+      ],
+      "description": "南二段路線上的重要山峰，位置偏遠。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "南部中央山脈常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "高海拔純林",
+          "type": "plant"
+        },
+        {
+          "name": "玉山薄雪草",
+          "desc": "稀有高山植物，類似歐洲雪絨花",
+          "type": "plant"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "rank": 44,
+      "name": "火石山",
+      "englishName": "Huoshi Mt.",
+      "elevation": 3310,
+      "county": "苗栗縣、台中市",
+      "coordinates": {
+        "latitude": 24.4,
+        "longitude": 121.1333
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "聖稜線",
+        "偏遠"
+      ],
+      "description": "聖稜線上的一座，需完整縱走才會經過。",
+      "wildlife": [
+        {
+          "name": "台灣山羊",
+          "desc": "長鬃山羊",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "針葉純林",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "高山白腹鼠",
+          "desc": "台灣特有種，棲息於3000公尺以上高山",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "rank": 45,
+      "name": "奇萊南峰",
+      "englishName": "Qilai South Peak",
+      "elevation": 3358,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 24.0333,
+        "longitude": 121.2667
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "新手進階",
+        "箭竹草原",
+        "天池"
+      ],
+      "description": "奇萊南華路線（天池—南華—南峰），步道平緩適合新手，高山草原美不勝收。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "天池山莊附近常見",
+          "type": "bird"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "春季步道旁盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        },
+        {
+          "name": "台灣長鬃山羊",
+          "desc": "台灣唯一原生牛科，善攀岩壁",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "rank": 46,
+      "name": "南華山",
+      "englishName": "Nanhua Mt.",
+      "elevation": 3184,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.025,
+        "longitude": 121.2583
+      },
+      "difficultyStars": 2,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "新手首選",
+        "奇萊南華",
+        "草原"
+      ],
+      "description": "與奇萊南峰同一路線，天池山莊提供良好住宿，是新手推薦百岳。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "天池步道常見",
+          "type": "bird"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "秋季金黃色",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "rank": 47,
+      "name": "鹿山",
+      "englishName": "Lushan",
+      "elevation": 2981,
+      "county": "花蓮縣、台東縣",
+      "coordinates": {
+        "latitude": 23.2833,
+        "longitude": 121.0417
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "嘉明湖路線",
+        "順撿百岳"
+      ],
+      "description": "嘉明湖路線可順道攀登，通常與三叉山一起完成。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "嘉明湖一帶族群穩定",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "林相優美",
+          "type": "plant"
+        },
+        {
+          "name": "台灣二葉松",
+          "desc": "中海拔常見松樹，松果可食",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "rank": 48,
+      "name": "閂山",
+      "englishName": "Shanshan",
+      "elevation": 3168,
+      "county": "台中市",
+      "coordinates": {
+        "latitude": 24.2833,
+        "longitude": 121.2917
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "730林道",
+        "寬闊稜線"
+      ],
+      "description": "從730林道出發，稜線寬闊好走，通常與鈴鳴山一起完成。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "林道常見",
+          "type": "mammal"
+        },
+        {
+          "name": "巒大杉",
+          "desc": "高大針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "金翼白眉",
+          "desc": "高山常見鳥類，不怕人，常在山屋附近覓食",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "rank": 49,
+      "name": "鈴鳴山",
+      "englishName": "Lingming Mt.",
+      "elevation": 3272,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.2917,
+        "longitude": 121.3083
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "730林道",
+        "閂鈴連走"
+      ],
+      "description": "通常與閂山一起完成的閂鈴連走路線。",
+      "wildlife": [
+        {
+          "name": "大冠鷲",
+          "desc": "盤旋飛行",
+          "type": "bird"
+        },
+        {
+          "name": "台灣紅榨槭",
+          "desc": "秋季紅葉美麗",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "rank": 50,
+      "name": "無明山",
+      "englishName": "Wuming Mt.",
+      "elevation": 3451,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.3333,
+        "longitude": 121.35
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "無明斷崖",
+        "死亡稜線"
+      ],
+      "description": "無明斷崖是百岳中最險的路段之一，需攀爬近乎垂直的碎石壁。",
+      "wildlife": [
+        {
+          "name": "熊鷹",
+          "desc": "大型猛禽，翼展寬大",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "高海拔純林",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "rank": 51,
+      "name": "甘薯峰",
+      "englishName": "Ganshu Peak",
+      "elevation": 3158,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.325,
+        "longitude": 121.3417
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "北二段",
+        "險峻"
+      ],
+      "description": "北二段路線上的山峰，通常與無明山、鈴鳴山一起縱走。",
+      "wildlife": [
+        {
+          "name": "台灣噪鶥",
+          "desc": "群居性強的高山鳥",
+          "type": "bird"
+        },
+        {
+          "name": "台灣蘚苔",
+          "desc": "林下豐富的蘚苔類",
+          "type": "plant"
+        },
+        {
+          "name": "台灣二葉松",
+          "desc": "中海拔常見松樹，松果可食",
+          "type": "plant"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "rank": 52,
+      "name": "新康山",
+      "englishName": "Xinkang Mt.",
+      "elevation": 3331,
+      "county": "花蓮縣、台東縣",
+      "coordinates": {
+        "latitude": 23.4083,
+        "longitude": 121.1333
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "新康橫斷",
+        "偏遠",
+        "探險路線"
+      ],
+      "description": "新康橫斷是極為偏遠的路線，需要豐富登山經驗和自主導航能力。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "偏遠山區較多目擊",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "珍貴原始林",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "rank": 53,
+      "name": "馬利加南山",
+      "englishName": "Maliganan Mt.",
+      "elevation": 3546,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 23.5417,
+        "longitude": 121.0667
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "馬博橫斷",
+        "深山"
+      ],
+      "description": "馬博橫斷路線中的山峰，深入中央山脈核心。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "深山溪谷可見",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "巨大原始檜木林",
+          "type": "plant"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "rank": 54,
+      "name": "玉山西峰",
+      "englishName": "Yushan West Peak",
+      "elevation": 3518,
+      "county": "嘉義縣、南投縣",
+      "coordinates": {
+        "latitude": 23.475,
+        "longitude": 120.9361
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "玉山群峰",
+        "順撿"
+      ],
+      "description": "玉山群峰之一，可從排雲山莊順道攀登。",
+      "wildlife": [
+        {
+          "name": "金翼白眉",
+          "desc": "排雲山莊常客",
+          "type": "bird"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "蒼勁高山樹種",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        },
+        {
+          "name": "高山白腹鼠",
+          "desc": "台灣特有種，棲息於3000公尺以上高山",
+          "type": "mammal"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "rank": 55,
+      "name": "志佳陽大山",
+      "englishName": "Zhijiaying Mt.",
+      "elevation": 3345,
+      "county": "台中市",
+      "coordinates": {
+        "latitude": 24.35,
+        "longitude": 121.2167
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "雪山舊路",
+        "獨立路線"
+      ],
+      "description": "早期攀登雪山的傳統路線，現在多獨立攀登。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "步道旁常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "中海拔檜木林",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "rank": 56,
+      "name": "干卓萬山",
+      "englishName": "Ganzhuowan Mt.",
+      "elevation": 3284,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.9,
+        "longitude": 121.1333
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "干卓萬群峰",
+        "偏遠"
+      ],
+      "description": "干卓萬群峰之主，路途偏遠需多日行程。",
+      "wildlife": [
+        {
+          "name": "山羌",
+          "desc": "林間活動",
+          "type": "mammal"
+        },
+        {
+          "name": "巒大杉",
+          "desc": "中海拔大型針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "酒紅朱雀",
+          "desc": "高海拔特有亞種，雄鳥全身酒紅色",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "rank": 57,
+      "name": "牧山",
+      "englishName": "Mushan",
+      "elevation": 3241,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.9083,
+        "longitude": 121.1417
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "干卓萬群峰"
+      ],
+      "description": "干卓萬群峰之一，通常與干卓萬山一起攀登。",
+      "wildlife": [
+        {
+          "name": "藪鳥",
+          "desc": "中海拔特有種鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣杜鵑",
+          "desc": "中海拔杜鵑花科",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "rank": 58,
+      "name": "六順山",
+      "englishName": "Liushun Mt.",
+      "elevation": 3106,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.7333,
+        "longitude": 121.1583
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "六順七彩湖",
+        "最長路程"
+      ],
+      "description": "可能是百岳中所需時間最長的路線之一，需抵達七彩湖再攀登。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "七彩湖附近有記錄",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "七彩湖畔林相",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "rank": 59,
+      "name": "丹大山",
+      "englishName": "Danda Mt.",
+      "elevation": 3340,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.7167,
+        "longitude": 121.1833
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 8,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "丹大山區",
+        "偏遠",
+        "最偏遠百岳"
+      ],
+      "description": "可能是百岳中最偏遠的一座，需要很長的林道接近和多日行程。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "丹大地區是黑熊重要棲地",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "原始巨木林",
+          "type": "plant"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "rank": 60,
+      "name": "內嶺爾山",
+      "englishName": "Neiling'er Mt.",
+      "elevation": 3275,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.725,
+        "longitude": 121.1667
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "丹大山區",
+        "偏遠"
+      ],
+      "description": "丹大山區的一座，通常與六順山或丹大山一起完成。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "深山溪谷可見",
+          "type": "mammal"
+        },
+        {
+          "name": "蕨類植物",
+          "desc": "林下豐富的蕨類",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "冠羽畫眉",
+          "desc": "台灣特有種，有醒目的羽冠",
+          "type": "bird"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "rank": 61,
+      "name": "馬西山",
+      "englishName": "Maxi Mt.",
+      "elevation": 3443,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.3417,
+        "longitude": 121.425
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "南湖群峰"
+      ],
+      "description": "南湖群峰之一，通常南湖大山行程中一起攀登。",
+      "wildlife": [
+        {
+          "name": "岩鷚",
+          "desc": "高山裸岩環境鳥種",
+          "type": "bird"
+        },
+        {
+          "name": "南湖柳葉菜",
+          "desc": "特有種高山植物",
+          "type": "animal"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "rank": 62,
+      "name": "南湖北山",
+      "englishName": "Nanhu North Peak",
+      "elevation": 3536,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.3694,
+        "longitude": 121.4389
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "南湖群峰",
+        "審馬陣草原"
+      ],
+      "description": "南湖群峰之一，審馬陣草原是途中最美路段。",
+      "wildlife": [
+        {
+          "name": "金翼白眉",
+          "desc": "南湖山頂常見",
+          "type": "bird"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "春季盛開",
+          "type": "plant"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "台灣最高海拔的木本植物，樹形蒼勁扭曲",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "rank": 63,
+      "name": "巴巴山",
+      "englishName": "Baba Mt.",
+      "elevation": 3449,
+      "county": "台中市、花蓮縣",
+      "coordinates": {
+        "latitude": 24.3472,
+        "longitude": 121.3833
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "北一段"
+      ],
+      "description": "北一段路線中的山峰，與中央尖山同一路線。",
+      "wildlife": [
+        {
+          "name": "台灣噪鶥",
+          "desc": "高山特有種",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "針葉純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "rank": 64,
+      "name": "馬比杉山",
+      "englishName": "Mabishan Mt.",
+      "elevation": 3211,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.325,
+        "longitude": 121.45
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "南湖群峰",
+        "東稜"
+      ],
+      "description": "南湖大山東稜上的山峰，較少人攀登。",
+      "wildlife": [
+        {
+          "name": "山羌",
+          "desc": "林間出沒",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣水青岡",
+          "desc": "珍稀落葉喬木",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "rank": 65,
+      "name": "帕托魯山",
+      "englishName": "Patolu Mt.",
+      "elevation": 3101,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.25,
+        "longitude": 121.3833
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "太魯閣",
+        "陡峭"
+      ],
+      "description": "從太魯閣方向進入，路線陡峭。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "太魯閣常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "中海拔檜木",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "台灣山羌",
+          "desc": "台灣特有亞種，體型嬌小的鹿科動物",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "rank": 66,
+      "name": "屏風山",
+      "englishName": "Pingfeng Mt.",
+      "elevation": 3250,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 24.1667,
+        "longitude": 121.3167
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 2,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "鬼門關斷崖",
+        "中橫"
+      ],
+      "description": "鬼門關斷崖是最驚險的路段，需拉繩攀爬。",
+      "wildlife": [
+        {
+          "name": "大冠鷲",
+          "desc": "天空盤旋",
+          "type": "bird"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "岩壁上野生百合",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "rank": 67,
+      "name": "玉山前峰",
+      "englishName": "Yushan Front Peak",
+      "elevation": 3239,
+      "county": "南投縣、嘉義縣",
+      "coordinates": {
+        "latitude": 23.4833,
+        "longitude": 120.95
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "玉山群峰",
+        "碎石坡"
+      ],
+      "description": "玉山群峰之一，全程碎石坡較為辛苦。",
+      "wildlife": [
+        {
+          "name": "酒紅朱雀",
+          "desc": "排雲山莊周邊常見",
+          "type": "bird"
+        },
+        {
+          "name": "玉山圓柏",
+          "desc": "高山針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "高山杜鵑花科，春季粉白花盛開",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "rank": 68,
+      "name": "南雙頭山",
+      "englishName": "Nanshuangtou Mt.",
+      "elevation": 3356,
+      "county": "高雄市、花蓮縣",
+      "coordinates": {
+        "latitude": 23.3667,
+        "longitude": 121.0
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南二段"
+      ],
+      "description": "南二段路線上的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "南部山區常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "特有種大型針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        },
+        {
+          "name": "高山田鼠",
+          "desc": "台灣特有種，棲息於高山箭竹草原",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣獼猴",
+          "desc": "台灣唯一原生靈長類，群居性強",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "rank": 69,
+      "name": "轆轆山",
+      "englishName": "Lulu Mt.",
+      "elevation": 3279,
+      "county": "高雄市",
+      "coordinates": {
+        "latitude": 23.35,
+        "longitude": 121.0167
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南二段"
+      ],
+      "description": "南二段路線上的山峰，以名字特別聞名。",
+      "wildlife": [
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣最小鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "稜線上搖曳",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "台灣水鹿",
+          "desc": "台灣最大的原生鹿科動物，常於黃昏出沒",
+          "type": "mammal"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "rank": 70,
+      "name": "達芬尖山",
+      "englishName": "Dafen Jianshan",
+      "elevation": 3208,
+      "county": "花蓮縣、台東縣",
+      "coordinates": {
+        "latitude": 23.3833,
+        "longitude": 121.025
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南二段",
+        "三尖之一"
+      ],
+      "description": "三尖之一（中央尖、大霸尖、達芬尖），山形尖銳。",
+      "wildlife": [
+        {
+          "name": "松雀鷹",
+          "desc": "中海拔猛禽",
+          "type": "bird"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "步道旁常見",
+          "type": "plant"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "rank": 71,
+      "name": "佳陽山",
+      "englishName": "Jiayang Mt.",
+      "elevation": 3314,
+      "county": "台中市",
+      "coordinates": {
+        "latitude": 24.3083,
+        "longitude": 121.225
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 1,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "單攻",
+        "中級"
+      ],
+      "description": "從大雪山林道出發的單攻路線，路程適中。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "林道常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "檜木林中穿行",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "冠羽畫眉",
+          "desc": "台灣特有種，有醒目的羽冠",
+          "type": "bird"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "rank": 72,
+      "name": "玉山圓峰",
+      "englishName": "Yushan Round Peak",
+      "elevation": 3752,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.4639,
+        "longitude": 120.9556
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "玉山群峰",
+        "圓峰山屋"
+      ],
+      "description": "玉山群峰之一，圓峰山屋常用作南一段起點。",
+      "wildlife": [
+        {
+          "name": "金翼白眉",
+          "desc": "山屋常客",
+          "type": "bird"
+        },
+        {
+          "name": "玉山薄雪草",
+          "desc": "珍稀高山植物",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "rank": 73,
+      "name": "南湖南峰",
+      "englishName": "Nanhu South Peak",
+      "elevation": 3505,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.3444,
+        "longitude": 121.4333
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "南湖群峰"
+      ],
+      "description": "南湖群峰之一，通常南湖行程中順道攀登。",
+      "wildlife": [
+        {
+          "name": "台灣草蜥",
+          "desc": "高山蜥蜴",
+          "type": "reptile"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "箭竹草原",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "rank": 74,
+      "name": "大雪山",
+      "englishName": "Daxueshan",
+      "elevation": 3530,
+      "county": "苗栗縣、台中市",
+      "coordinates": {
+        "latitude": 24.425,
+        "longitude": 121.1583
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "聖稜線",
+        "大雪山群"
+      ],
+      "description": "聖稜線上的重要山峰，需完整縱走才能抵達。",
+      "wildlife": [
+        {
+          "name": "台灣山羊",
+          "desc": "岩壁活動",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "純林優美",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "rank": 75,
+      "name": "頭鷹山",
+      "englishName": "Touying Mt.",
+      "elevation": 3510,
+      "county": "苗栗縣、台中市",
+      "coordinates": {
+        "latitude": 24.4167,
+        "longitude": 121.15
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "聖稜線"
+      ],
+      "description": "聖稜線上的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣噪鶥",
+          "desc": "高山特有種",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "高海拔植被",
+          "type": "plant"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "高山草原的主要植被，為野生動物提供棲息地",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "rank": 76,
+      "name": "穆特勒布山",
+      "englishName": "Muteleb Mt.",
+      "elevation": 3626,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.3167,
+        "longitude": 121.3667
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "北一段",
+        "險峻"
+      ],
+      "description": "北一段路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "熊鷹",
+          "desc": "大型猛禽",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "針葉純林",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "rank": 77,
+      "name": "駒盆山",
+      "englishName": "Jupen Mt.",
+      "elevation": 3109,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.6417,
+        "longitude": 121.1417
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "東郡橫斷",
+        "偏遠"
+      ],
+      "description": "東郡橫斷路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "深山有記錄",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "深山原始林",
+          "type": "plant"
+        },
+        {
+          "name": "台灣紅榨槭",
+          "desc": "秋季紅葉代表樹種，色彩絢麗",
+          "type": "plant"
+        },
+        {
+          "name": "冠羽畫眉",
+          "desc": "台灣特有種，有醒目的羽冠",
+          "type": "bird"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "rank": 78,
+      "name": "雪山西南峰",
+      "englishName": "Xueshan SW Peak",
+      "elevation": 3471,
+      "county": "苗栗縣、台中市",
+      "coordinates": {
+        "latitude": 24.375,
+        "longitude": 121.2083
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "大雪線",
+        "偏遠"
+      ],
+      "description": "需從雪山主峰西南方向延伸前往，路徑不明顯。",
+      "wildlife": [
+        {
+          "name": "酒紅朱雀",
+          "desc": "高海拔鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "箭竹草原",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "台灣水鹿",
+          "desc": "台灣最大的原生鹿科動物，常於黃昏出沒",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "rank": 79,
+      "name": "塔芬山",
+      "englishName": "Tafen Mt.",
+      "elevation": 3090,
+      "county": "花蓮縣、台東縣",
+      "coordinates": {
+        "latitude": 23.3917,
+        "longitude": 121.0333
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南二段"
+      ],
+      "description": "南二段路線上的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "南部山區",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔常見",
+          "type": "plant"
+        },
+        {
+          "name": "台灣山毛櫸",
+          "desc": "冰河孓遺植物，秋季金黃落葉壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "高山田鼠",
+          "desc": "台灣特有種，棲息於高山箭竹草原",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "rank": 80,
+      "name": "南湖大山南峰",
+      "englishName": "Nanhu South Main",
+      "elevation": 3475,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.3389,
+        "longitude": 121.4278
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "南湖群峰"
+      ],
+      "description": "南湖群峰之一。",
+      "wildlife": [
+        {
+          "name": "岩鷚",
+          "desc": "高山岩石環境",
+          "type": "bird"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "特有種杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "rank": 81,
+      "name": "東巒大山",
+      "englishName": "Dongluan Dashan",
+      "elevation": 3468,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.6083,
+        "longitude": 121.15
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "東郡橫斷"
+      ],
+      "description": "東郡橫斷路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "深山棲息",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "巨木",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "台灣山羌",
+          "desc": "台灣特有亞種，體型嬌小的鹿科動物",
+          "type": "mammal"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "rank": 82,
+      "name": "義西請馬至山",
+      "englishName": "Yixiqingmazhi Mt.",
+      "elevation": 3245,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.8417,
+        "longitude": 121.1167
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "干卓萬群峰"
+      ],
+      "description": "干卓萬群峰之一。",
+      "wildlife": [
+        {
+          "name": "藪鳥",
+          "desc": "森林鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "台灣杜鵑",
+          "desc": "中海拔灌木",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        },
+        {
+          "name": "冠羽畫眉",
+          "desc": "台灣特有種，有醒目的羽冠",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "rank": 83,
+      "name": "卑南主山",
+      "englishName": "Beinan Main Peak",
+      "elevation": 3293,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.2083,
+        "longitude": 120.9417
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南一段",
+        "偏遠"
+      ],
+      "description": "南一段路線中的重要山峰。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "南部深山",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "原始林",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "火冠戴菊鳥",
+          "desc": "台灣體型最小的鳥類，頭頂有橘紅色冠羽",
+          "type": "bird"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "rank": 84,
+      "name": "太魯閣大山",
+      "englishName": "Taroko Dashan",
+      "elevation": 3283,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 24.2083,
+        "longitude": 121.35
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "太魯閣",
+        "獨立山頭"
+      ],
+      "description": "太魯閣國家公園內的高山。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "太魯閣常見",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "檜木林帶",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "rank": 85,
+      "name": "小關山",
+      "englishName": "Xiaoguanshan",
+      "elevation": 3249,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.15,
+        "longitude": 120.9333
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南一段"
+      ],
+      "description": "南一段路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "偶見於步道",
+          "type": "bird"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "草原景觀",
+          "type": "plant"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣黑熊",
+          "desc": "台灣唯一原生熊類，胸前有V字白斑",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "rank": 86,
+      "name": "奇萊裡山",
+      "englishName": "Qilai Li Mt.",
+      "elevation": 3051,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 24.0583,
+        "longitude": 121.2583
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 2,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "奇萊南華路線",
+        "順撿"
+      ],
+      "description": "奇萊南華路線可順道攀登。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "天池步道",
+          "type": "bird"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "步道旁常見",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "rank": 87,
+      "name": "安東軍山",
+      "englishName": "Andongjun Mt.",
+      "elevation": 3068,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.9833,
+        "longitude": 121.2417
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "能高安東軍",
+        "高山草原湖泊"
+      ],
+      "description": "能高安東軍縱走路線的終點，沿途有大片高山草原和多個高山湖泊。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "草原上常見群聚",
+          "type": "mammal"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鈴鐺狀花",
+          "type": "plant"
+        },
+        {
+          "name": "一葉蘭",
+          "desc": "台灣特有蘭花，生長於岩壁苔蘚間",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "rank": 88,
+      "name": "萬東山西峰",
+      "englishName": "Wandong West Peak",
+      "elevation": 3135,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.8583,
+        "longitude": 121.125
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "干卓萬群峰"
+      ],
+      "description": "干卓萬群峰之一。",
+      "wildlife": [
+        {
+          "name": "冠羽畫眉",
+          "desc": "林間活動",
+          "type": "bird"
+        },
+        {
+          "name": "巒大杉",
+          "desc": "大型針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "台灣冷杉",
+          "desc": "台灣最高海拔的針葉樹種，純林壯觀",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "rank": 89,
+      "name": "光頭山",
+      "englishName": "Guangtou Mt.",
+      "elevation": 3060,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 24.0083,
+        "longitude": 121.25
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "能高縱走",
+        "草原"
+      ],
+      "description": "能高縱走路線上的山峰，山頂光禿故名。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "步道旁偶見",
+          "type": "bird"
+        },
+        {
+          "name": "玉山箭竹",
+          "desc": "寬闊箭竹原",
+          "type": "plant"
+        },
+        {
+          "name": "台灣紅榨槭",
+          "desc": "秋季紅葉代表樹種，色彩絢麗",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "rank": 90,
+      "name": "海諾南山",
+      "englishName": "Hainonnan Mt.",
+      "elevation": 3175,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.1833,
+        "longitude": 120.9333
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南一段",
+        "偏遠"
+      ],
+      "description": "南一段路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "偏遠山區",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "原始林",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        },
+        {
+          "name": "高山田鼠",
+          "desc": "台灣特有種，棲息於高山箭竹草原",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "rank": 91,
+      "name": "伊澤山",
+      "englishName": "Yize Mt.",
+      "elevation": 3297,
+      "county": "苗栗縣、新竹縣",
+      "coordinates": {
+        "latitude": 24.4472,
+        "longitude": 121.1528
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "大霸群峰"
+      ],
+      "description": "大霸群峰之一，通常與大霸尖山同一行程。",
+      "wildlife": [
+        {
+          "name": "台灣獼猴",
+          "desc": "大鹿林道常見",
+          "type": "mammal"
+        },
+        {
+          "name": "一葉蘭",
+          "desc": "珍稀蘭花",
+          "type": "plant"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔針葉樹，樹形優美",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "rank": 92,
+      "name": "加利山",
+      "englishName": "Jiali Mt.",
+      "elevation": 3112,
+      "county": "苗栗縣、新竹縣",
+      "coordinates": {
+        "latitude": 24.4389,
+        "longitude": 121.1472
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "大霸群峰"
+      ],
+      "description": "大霸群峰之一。",
+      "wildlife": [
+        {
+          "name": "冠羽畫眉",
+          "desc": "中海拔特有種",
+          "type": "bird"
+        },
+        {
+          "name": "台灣紅豆杉",
+          "desc": "珍稀針葉樹",
+          "type": "plant"
+        },
+        {
+          "name": "台灣扁柏",
+          "desc": "台灣特有種，材質芬芳珍貴",
+          "type": "plant"
+        },
+        {
+          "name": "藪鳥",
+          "desc": "中高海拔特有種，叫聲清亮悅耳",
+          "type": "bird"
+        },
+        {
+          "name": "台灣二葉松",
+          "desc": "中海拔常見松樹，松果可食",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "rank": 93,
+      "name": "玉山群峰鹿山",
+      "englishName": "Lushan (Jade Range)",
+      "elevation": 2981,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.45,
+        "longitude": 120.9333
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "玉山群峰",
+        "鹿林山"
+      ],
+      "description": "玉山群峰中的一座，以鹿林神木聞名。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "山區常見",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "鹿林神木",
+          "type": "plant"
+        },
+        {
+          "name": "台灣紅榨槭",
+          "desc": "秋季紅葉代表樹種，色彩絢麗",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "rank": 94,
+      "name": "雪山南峰",
+      "englishName": "Xueshan South Peak",
+      "elevation": 3505,
+      "county": "台中市",
+      "coordinates": {
+        "latitude": 24.3583,
+        "longitude": 121.225
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": false,
+      "tags": [
+        "雪山群峰"
+      ],
+      "description": "雪山群峰之一。",
+      "wildlife": [
+        {
+          "name": "酒紅朱雀",
+          "desc": "高海拔鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "玉山杜鵑",
+          "desc": "春季盛開",
+          "type": "plant"
+        },
+        {
+          "name": "南湖杜鵑",
+          "desc": "南湖山區特有的高山杜鵑",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "rank": 95,
+      "name": "盆駒山",
+      "englishName": "Penju Mt.",
+      "elevation": 3022,
+      "county": "南投縣",
+      "coordinates": {
+        "latitude": 23.65,
+        "longitude": 121.125
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "東郡橫斷",
+        "偏遠"
+      ],
+      "description": "東郡橫斷路線中最偏遠的山峰之一。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "偏遠深山",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "原始林",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        },
+        {
+          "name": "金翼白眉",
+          "desc": "高山常見鳥類，不怕人，常在山屋附近覓食",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "rank": 96,
+      "name": "能高南峰",
+      "englishName": "Nenggao South Peak",
+      "elevation": 3349,
+      "county": "花蓮縣、南投縣",
+      "coordinates": {
+        "latitude": 24.0167,
+        "longitude": 121.2583
+      },
+      "difficultyStars": 4,
+      "suggestedDays": 4,
+      "hasCabin": false,
+      "hasSunrise": true,
+      "tags": [
+        "能高安東軍",
+        "草原"
+      ],
+      "description": "能高安東軍縱走路線中的重要山峰。",
+      "wildlife": [
+        {
+          "name": "帝雉",
+          "desc": "高山鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "金黃草原",
+          "type": "plant"
+        },
+        {
+          "name": "高山沙參",
+          "desc": "紫色鐘形花，高山草坡常見",
+          "type": "plant"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "rank": 97,
+      "name": "小關山北峰",
+      "englishName": "Xiaoguan North",
+      "elevation": 3249,
+      "county": "高雄市",
+      "coordinates": {
+        "latitude": 23.1667,
+        "longitude": 120.9333
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 6,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "南一段"
+      ],
+      "description": "南一段路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "南部深山",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣鐵杉",
+          "desc": "中高海拔",
+          "type": "plant"
+        },
+        {
+          "name": "台灣百合",
+          "desc": "台灣特有百合，白色花瓣帶紫紅色條紋",
+          "type": "plant"
+        },
+        {
+          "name": "冠羽畫眉",
+          "desc": "台灣特有種，有醒目的羽冠",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "rank": 98,
+      "name": "布拉克桑山",
+      "englishName": "Bulakesang Mt.",
+      "elevation": 3369,
+      "county": "南投縣、花蓮縣",
+      "coordinates": {
+        "latitude": 23.525,
+        "longitude": 121.05
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 7,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "馬博橫斷"
+      ],
+      "description": "馬博橫斷路線中的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "深山棲息",
+          "type": "mammal"
+        },
+        {
+          "name": "紅檜",
+          "desc": "原始檜木林",
+          "type": "plant"
+        },
+        {
+          "name": "玉山龍膽",
+          "desc": "深藍色高山小花，秋季盛開",
+          "type": "plant"
+        },
+        {
+          "name": "台灣長鬃山羊",
+          "desc": "台灣唯一原生牛科，善攀岩壁",
+          "type": "mammal"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "rank": 99,
+      "name": "喀西帕南山",
+      "englishName": "Kaxipanan Mt.",
+      "elevation": 3216,
+      "county": "花蓮縣",
+      "coordinates": {
+        "latitude": 23.4417,
+        "longitude": 121.1167
+      },
+      "difficultyStars": 5,
+      "suggestedDays": 5,
+      "hasCabin": false,
+      "hasSunrise": false,
+      "tags": [
+        "八通關",
+        "偏遠"
+      ],
+      "description": "八通關古道深處的山峰。",
+      "wildlife": [
+        {
+          "name": "台灣黑熊",
+          "desc": "八通關一帶",
+          "type": "mammal"
+        },
+        {
+          "name": "台灣杉",
+          "desc": "珍貴原始林",
+          "type": "plant"
+        },
+        {
+          "name": "高山嵩草",
+          "desc": "高山碎石坡常見的耐寒草本",
+          "type": "plant"
+        },
+        {
+          "name": "岩鷚",
+          "desc": "棲息於高山碎石坡的小型鳥類",
+          "type": "bird"
+        },
+        {
+          "name": "帝雉",
+          "desc": "台灣特有種，千元鈔上的國寶級鳥類",
+          "type": "bird"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "rank": 100,
+      "name": "庫哈諾辛山",
+      "englishName": "Kuhanuoxin Mt.",
+      "elevation": 3115,
+      "county": "高雄市、台東縣",
+      "coordinates": {
+        "latitude": 23.2917,
+        "longitude": 120.9583
+      },
+      "difficultyStars": 3,
+      "suggestedDays": 3,
+      "hasCabin": true,
+      "hasSunrise": true,
+      "tags": [
+        "嘉明湖路線",
+        "順撿百岳"
+      ],
+      "description": "嘉明湖路線可順道攀登，山頂展望佳。",
+      "wildlife": [
+        {
+          "name": "台灣水鹿",
+          "desc": "嘉明湖一帶常見",
+          "type": "mammal"
+        },
+        {
+          "name": "高山芒草",
+          "desc": "秋季金黃",
+          "type": "plant"
+        },
+        {
+          "name": "森氏杜鵑",
+          "desc": "台灣特有種杜鵑，花朵粉紅碩大",
+          "type": "plant"
+        },
+        {
+          "name": "金翼白眉",
+          "desc": "高山常見鳥類，不怕人，常在山屋附近覓食",
+          "type": "bird"
+        },
+        {
+          "name": "台灣噪鶥",
+          "desc": "台灣特有種，常成群活動於箭竹叢間",
+          "type": "bird"
+        }
+      ]
+    }
   ]
 }

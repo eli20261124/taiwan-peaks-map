@@ -1,66 +1,169 @@
-/* Map Container Styles */
-.leaflet-container {
-  background-color: #f3f4f6;
-}
+/* ========================================
+   百岳手冊 - Basecamp-inspired Styles
+   Clean, minimal, generous whitespace
+   ======================================== */
 
-/* Marker Animation */
-.leaflet-marker-icon {
-  transition: transform 0.2s ease-in-out;
-}
-
-.leaflet-marker-icon:hover {
-  transform: scale(1.2) !important;
-}
-
-/* Card Animation */
-.side-card {
-  animation: slideInRight 0.3s ease-in-out;
-}
-
-@keyframes slideInRight {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
-
-/* General Styling */
+/* General */
 * {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html {
+  scroll-behavior: smooth;
 }
 
-#root {
-  width: 100%;
-  height: 100%;
+/* ---- Map Container ---- */
+/* fade-in handled by framer-motion on the same element */
+
+/* ---- Peak dot: subtle breathing pulse on hover ---- */
+.peak-dot {
+  transform-origin: center;
+  transition: r 0.3s ease, filter 0.3s ease;
 }
 
-/* Scrollbar Styling */
+.peak-marker:hover .peak-dot {
+  animation: peakBreathe 1.8s ease-in-out infinite;
+}
+
+@keyframes peakBreathe {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.5); opacity: 0.7; }
+}
+
+/* Peak label: hidden by default, show on hover */
+.peak-label {
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  pointer-events: none;
+}
+
+/* Peak tooltip — show/hide via class toggle */
+.peak-tooltip {
+  opacity: 0;
+  transition: opacity 0.15s ease;
+}
+.peak-tooltip.peak-tooltip-visible {
+  opacity: 1;
+}
+.peak-marker:hover .peak-label,
+.peak-marker.selected .peak-label {
+  opacity: 1;
+}
+
+/* Peak marker hover glow */
+.peak-marker:hover .peak-dot {
+  filter: drop-shadow(0 0 5px rgba(45, 58, 58, 0.3));
+}
+.peak-marker.selected .peak-dot {
+  filter: drop-shadow(0 0 6px rgba(45, 58, 58, 0.45));
+  animation: none;
+}
+
+/* ---- Info card spring-in animation ---- */
+.info-card {
+  animation: cardSpringIn 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+
+@keyframes cardSpringIn {
+  from {
+    opacity: 0;
+    transform: scale(0.88) translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+/* ---- Peak list item stagger animation ---- */
+.peak-list-item {
+  animation: listSlideIn 0.35s ease-out both;
+}
+
+@keyframes listSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ---- Range input styling ---- */
+input[type="range"] {
+  -webkit-appearance: none;
+  height: 4px;
+  border-radius: 2px;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: oklch(0.35 0.12 155);
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  cursor: pointer;
+}
+input[type="range"]::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: oklch(0.35 0.12 155);
+  border: 2px solid white;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  cursor: pointer;
+}
+
+/* ---- Ultra-thin scrollbar ---- */
 ::-webkit-scrollbar {
-  width: 8px;
+  width: 3px;
 }
-
 ::-webkit-scrollbar-track {
-  background: #f1f5e9;
+  background: transparent;
 }
-
 ::-webkit-scrollbar-thumb {
-  background: #10b981;
-  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.12);
+  border-radius: 1.5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0.22);
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0,0,0,0.12) transparent;
 }
 
-::-webkit-scrollbar-thumb:hover {
-  background: #059669;
+/* ---- D3 SVG county hover ---- */
+.county {
+  transition: fill-opacity 0.2s ease;
+}
+.county:hover {
+  fill-opacity: 0.85;
+}
+
+/* ---- Skeleton Loader ---- */
+.map-skeleton {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #FDFCFB;
+}
+.map-skeleton-shape {
+  width: 35%;
+  height: 70%;
+  border-radius: 40% 60% 50% 50% / 30% 30% 70% 70%;
+  background: linear-gradient(135deg, #F0EDEB 0%, #E8E4E0 50%, #F0EDEB 100%);
+  background-size: 200% 200%;
+  animation: skeletonShimmer 2s ease-in-out infinite;
+}
+@keyframes skeletonShimmer {
+  0% { background-position: 100% 0%; opacity: 0.6; }
+  50% { background-position: 0% 100%; opacity: 0.4; }
+  100% { background-position: 100% 0%; opacity: 0.6; }
 }
 

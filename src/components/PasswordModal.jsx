@@ -6,13 +6,11 @@ const PasswordModal = ({ isOpen, onSubmit }) => {
   const { t } = useTranslation();
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
+  const correctPassword = import.meta.env.VITE_SITE_PASSWORD;
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    
-    // 默認密碼: taiwan2026
-    const correctPassword = 'taiwan2026';
-    
+
     if (password === correctPassword) {
       setError('');
       setPassword('');
@@ -65,10 +63,6 @@ const PasswordModal = ({ isOpen, onSubmit }) => {
             {t('submit')}
           </button>
         </form>
-
-        <p className="text-xs text-gray-500 text-center mt-4">
-          💡 提示: 密碼是 taiwan2026
-        </p>
       </div>
     </div>
   );
